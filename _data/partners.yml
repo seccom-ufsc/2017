@@ -1,6 +1,6 @@
 -
   type: "diamond"
-  group: "Pratocinadores Diamante"
+  group: "Patrocinadores Diamante"
   elements:
     - {name: "SafeWeb",
        description: "SafeWeb",
@@ -8,14 +8,14 @@
        image_url: "safeweb.svg",
        }
 -
-  group: "Pratocinadores Ouro"
+  group: "Patrocinadores Ouro"
   elements:
     - {name: "Google",
        description: "Google",
        link: "https://www.google.com.ua/intl/en/about/",
        image_url: "google.svg"}
 -
-  group: "Pratocinadores Prata"
+  group: "Patrocinadores Prata"
   elements:
     - {name: "Google",
        description: "Google",

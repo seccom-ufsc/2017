@@ -12,12 +12,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "SECCOM 2017"
 email: "seccom2017@contato.ufsc.br"
-description: "GDG DevFest is a set of events all around the world"
+description: "A semana acadêmica de computação da Universidade Federal de Santa Catarina"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "https://seccom2017.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "seccom2017.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, academic, google, programming, developers"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -146,19 +146,17 @@ partnersC4sponsorsButton: "Torne-se um patrocinador"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/seccom.ufsc/", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://petcomputacao.paginas.ufsc.br/", text: "PET Computação-UFSC"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:seccom2017@contato.ufsc.br", text: "seccom2017@contato.ufsc.br"}
  -
   title: "FAQ"
   links:
