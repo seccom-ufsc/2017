@@ -2,7 +2,7 @@
   date: "2017-10-02"
   dateReadable: "2 de Outubro"
   tracks:
-    - {title: "Atividades", color: "#90be4e"}
+    - {title: "Atividades", color: "#0a0a55"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -25,7 +25,7 @@
   date: "2017-10-03"
   dateReadable: "3 de Outubro"
   tracks:
-    - {title: "Atividades", color: "#90be4e"}
+    - {title: "Atividades", color: "#0a0a55"}
   timeslots:
     - {
         startTime: "10:00",
@@ -48,7 +48,7 @@
   date: "2017-10-04"
   dateReadable: "4 de Outubro"
   tracks:
-    - {title: "Atividades", color: "#90be4e"}
+    - {title: "Atividades", color: "#0a0a55"}
   timeslots:
     - {
         startTime: "10:00",
@@ -71,7 +71,7 @@
   date: "2017-10-05"
   dateReadable: "5 de Outubro"
   tracks:
-    - {title: "Atividades", color: "#90be4e"}
+    - {title: "Atividades", color: "#0a0a55"}
   timeslots:
     - {
         startTime: "10:00",
@@ -94,7 +94,7 @@
   date: "2017-10-06"
   dateReadable: "6 de Outubro"
   tracks:
-    - {title: "Atividades", color: "#90be4e"}
+    - {title: "Atividades", color: "#0a0a55"}
   timeslots:
     - {
         startTime: "10:00",
