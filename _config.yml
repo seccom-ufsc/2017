@@ -71,20 +71,31 @@ aboutDescription: "A SECCOM é um evento que ocorre anualmente na Universidade
     que existem após a graduação."
 aboutBlock:
  - {title: "Palestras",
-    image: "conference.jpg",
-    text: "" }
+    image: "palestras.jpg",
+    text: "
+           Por toda a semana teremos palestras sobre técnicas e tecnologias
+           emergentes, áreas de pesquisa e mais."
+           }
+
  - {title: "Minicursos",
-    image: "workshop.jpg",
-    text: "Full-day of workshops, hands-on experience, hacking and debugging.
-           Come and tame your favourite technology!" }
+    image: "minicursos.jpg",
+    text: "
+           Aprenda a utilizar ferramentas, linguagens e ambientes de
+           desenvolvimento com quem as domina através dos minicursos
+           oferecidos durante a semana." }
+
  - {title: "Feira Empresarial",
-    image: "hackathon.jpg",
-    text: "Full-day freestyle hackathon! Want some real team building on
-           friday? Grab your team and join our hackathon!" }
+    image: "feira-empresarial.jpg",
+    text: "
+           Ganhe visibilidade: será disponibilizado um espaço para empresas
+           divulgarem seu trabalho ou mesmo vagas de emprego e estágio." }
+
  - {title: "Laboratórios",
-    image: "hackathon.jpg",
-    text: "Full-day freestyle hackathon! Want some real team building on
-           friday? Grab your team and join our hackathon!" }
+    image: "laboratorios.jpg",
+    text: "
+           Além das empresas, os laboratórios do Departamento de Informática e
+           Estatística da UFSC terão a oportunidade de mostrar suas linhas de
+           pesquisa." }
 
 
 # Statistic Block
