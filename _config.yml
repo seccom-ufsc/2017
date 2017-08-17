@@ -163,18 +163,19 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://petcomputacao.paginas.ufsc.br/", text: "PET Computação-UFSC"}
+   - {link: "http://pet.inf.ufsc.br/", text: "PET Computação - UFSC"}
  -
-  title: "Contacts"
+  title: "Contato"
   links:
    - {link: "mailto:seccom2017@contato.ufsc.br", text: "seccom2017@contato.ufsc.br"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# -
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas notícias"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 

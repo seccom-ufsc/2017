@@ -7,25 +7,25 @@
        link: "https://safeweb.com.br/",
        image_url: "safeweb.svg",
        }
+#-
+#  group: "Patrocinadores Ouro"
+#  elements:
+#    - {name: "Google",
+#       description: "Google",
+#       link: "https://www.google.com.ua/intl/en/about/",
+#       image_url: "google.svg"}
+#-
+#  group: "Patrocinadores Prata"
+#  elements:
+#    - {name: "Google",
+#       description: "Google",
+#       link: "https://www.google.com.ua/intl/en/about/",
+#       image_url: "google.svg"}
 -
-  group: "Patrocinadores Ouro"
+  group: "Promoção"
   elements:
-    - {name: "Google",
-       description: "Google",
-       link: "https://www.google.com.ua/intl/en/about/",
-       image_url: "google.svg"}
--
-  group: "Patrocinadores Prata"
-  elements:
-    - {name: "Google",
-       description: "Google",
-       link: "https://www.google.com.ua/intl/en/about/",
-       image_url: "google.svg"}
--
-  group: "Com o apoio de"
-  elements:
-    - {name: "Google",
-       description: "Google",
-       link: "https://www.google.com.ua/intl/en/about/",
-       image_url: "google.svg",
+    - {name: "UFSC",
+       description: "Universidade Federal de Santa Catarina",
+       link: "https://ufsc.br",
+       image_url: "ufsc-crest.svg",
        width: "120px"}
