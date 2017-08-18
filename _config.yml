@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform"
-c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdyfZSlKXZHH6DxSaa6hIw0uqB4vnUbl5codRdljTyxbvgvKw/viewform"
+c4pUrl: "https://goo.gl/forms/7wftj2pg78SpoPyo1"
+c4sponsorsUrl: "https://goo.gl/forms/JpPWjI1meJpgLfiA3"
 
 
 # Navigation
@@ -47,16 +47,16 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
+ - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
+ - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "SECCOM 2017"
 eventDate: "2 a 6 de Outubro"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
+ - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 
 # About Block
