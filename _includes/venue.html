@@ -11,7 +11,9 @@
                 </div>
                 <div class="col-md-4 col-sm-4 venue-col venue-small-col">
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding"
+                             data-animation="fadeIn" data-delay="150"
+                             style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>
                     </div>
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
                         <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0">
@@ -21,12 +23,14 @@
                             {% endfor %}
                         </div>
                     </div>
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12"> <!-- col-md-12 col-sm-12 col-xs-6"> -->
                         <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage2 }})"></div>
                     </div>
+                    {% if site.venueSmallImage3 %}
                     <div class="venue-elem-wrapper col-xs-6 visible-xs">
                         <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})"></div>
                     </div>
+                    {% endif %}
                 </div>
             </div>
         </div>
