@@ -49,7 +49,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdyfZSlKXZHH6DxSaa6hIw0uqB4vnUbl5codRdljTyxbvgvKw/viewform", text: "Torne-se um palestrante"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
 
 # Hero Block
 heroImage: "hero.jpg"
