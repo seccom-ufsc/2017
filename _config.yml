@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/portfolio.pdf"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform"
+c4sponsorsUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdyfZSlKXZHH6DxSaa6hIw0uqB4vnUbl5codRdljTyxbvgvKw/viewform"
 
 
 # Navigation
@@ -47,16 +47,16 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Torne-se um palestrante"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Torne-se um palestrante"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdyfZSlKXZHH6DxSaa6hIw0uqB4vnUbl5codRdljTyxbvgvKw/viewform", text: "Torne-se um palestrante"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "SECCOM 2017"
 eventDate: "2 a 6 de Outubro"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Torne-se um palestrante"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSc8SjLpbpcq9Om-COnRh9PWsvry01nd6kXA6heim5nGqN5Tcg/viewform", text: "Torne-se um palestrante"}
 
 
 # About Block
