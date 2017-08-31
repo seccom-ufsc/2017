@@ -55,5 +55,13 @@
   speakers: [1]
   language: pt-br
   complexity: "Introdutória"
+-
+  id: 003
+  title: "Algumas palavras sobre Computação: Passado, Presente e Futuro."
+  description: ""
+  subtype: presentation
+  # speakers: [] -Jerusa Marchi
+  language: pt-br
+  complexity: "Introdutória"
   # presentation:
   # video:

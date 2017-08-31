@@ -31,7 +31,24 @@
        Advanced Visualization Research Team, no RIKEN Advanced Institute for
        Computational Science (AICS), em Kobe, Japão."
  thumbnailUrl: EduardoCamilo.jpg
-
+-
+ id: 2
+ name: "Jerusa"
+ surname: "Marchi"
+ # company: ""
+ bio: "Jerusa Marchi possui graduação em Ciência da Computação pela Universidade
+       Estadual do Oeste do Paraná (1998), mestrado em Engenharia Elétrica pela
+       Universidade Federal de Santa Catarina (2001) e doutorado em Engenharia
+       Elétrica pela Universidade Federal de Santa Catarina (2006) e em
+       Informática pela Université Toulouse I - Toulouse - França (2006),
+       realizado em co-tutela. Atualmente é professora adjunta no Departamento
+       de Informática e Estatística da Universidade Federal de Santa Catarina.
+       Tem experiência na área de Ciência da Computação, com ênfase em
+       Matemática da Computação, atuando principalmente nos seguintes temas:
+       inteligência artificial (lógica e representação do conhecimento,
+       processos de mudança de crenças, sistemas cognitivos), teoria da
+       computação (reduções e satisfazibilidade booleana)."
+ thumbnailUrl: JerusaMarchi.jpg
  # social:
  #   - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
  #   - {name: "twitter", link: "https://twitter.com/mherych"}
