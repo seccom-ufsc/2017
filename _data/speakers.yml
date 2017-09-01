@@ -2,7 +2,7 @@
  id: 0
  name: "Guilherme"
  surname: "Kundlatsch"
- # company: "iGEM"
+ company: "iGEM Foundation"
  title: "Brazilian iGEM Ambassador"
  bio: "Graduando em Biotecnologia pela UFSCar, fui bolsista do Programa Jovens
        Talentos para a Ciência pela CAPES/CNPq e realizei um ano de mobilidade
@@ -17,7 +17,10 @@
        diagnóstico. Hoje sou embaixador do iGEM no Brasil, visitando órgãos
        governamentais, instituições de ensino e empresas, buscando fomentar e
        sustentar grupos do iGEM pelo país."
- thumbnailUrl: GuilhermeKundlatsch.jpg
+ thumbnailUrl: GuilhermeKundlatsch2.jpg
+ social:
+   - {name: "linkedin", link: "https://www.linkedin.com/in/guilherme-kundlatsch-8940a5132/"}
+   - {name: "facebook", link: "https://www.facebook.com/guilherme.kundlatsch"}
 -
  id: 1
  name: "Eduardo Camilo"
@@ -35,7 +38,7 @@
  id: 2
  name: "Jerusa"
  surname: "Marchi"
- # company: ""
+ company: "Departamento de Informática e Estatística, USFC"
  bio: "Jerusa Marchi possui graduação em Ciência da Computação pela Universidade
        Estadual do Oeste do Paraná (1998), mestrado em Engenharia Elétrica pela
        Universidade Federal de Santa Catarina (2001) e doutorado em Engenharia
