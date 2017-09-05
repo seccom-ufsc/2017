@@ -52,6 +52,34 @@
        processos de mudança de crenças, sistemas cognitivos), teoria da
        computação (reduções e satisfazibilidade booleana)."
  thumbnailUrl: JerusaMarchi.jpg
- # social:
- #   - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
- #   - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+ id: 3
+ name: "Marcos"
+ surname: "Schead dos Santos"
+ company: "Laboratório Bridge"
+ title: "Desenvolvedor iOS"
+ bio: "Graduando de Ciências da Computação na UFSC, Marcos Schead trabalha faz
+       dois anos no Laboratório Bridge, inicialmente na área de qualidade e
+       testes, dentro do projeto de prontuário eletrônico e-SUS AB. Alguns meses
+       depois tornou-se desenvolvedor Java Web no projeto SISMOB (Gerenciamento
+       de Obras da Saúde) e no momento está como desenvolvedor iOS (iPhone e
+       iPad) usando a linguagem Swift, criando a versão mobile do projeto
+       SISMOB."
+ thumbnailUrl: MarcosSchead.png
+-
+ id: 4
+ name: "Bruno"
+ surname: "Ghisi"
+ company: "Resultados Digitais"
+ title: "Co-fundador e CTO"
+ bio: "Mestre em ciência da computação pela UFSC. Co-fundador e CTO da
+       Resultados Digitais, empresa criadora do RD Station, que é a plataforma
+       de automação de marketing líder LATAM com mais de 10 mil clientes, 500
+       colaboradores e 1500 agências parceiras. A RD foi 3x consecutivas eleita
+       o melhor lugar para se trabalhar em Santa Catarina pelo GPTW. Selecionado
+       como Empreendedor Endeavor em 2016. Investidor anjo."
+ thumbnailUrl: BrunoGhisi.jpg
+ social:
+   - {name: "twitter", link: "https://twitter.com/brunogh"}
+   - {name: "github", link: "https://github.com/brunogh"}
+   - {name: "linkedin", link: "https://br.linkedin.com/in/brunoghisi/"}

@@ -1,5 +1,5 @@
 -
-  id: 307
+  id: 301
   title: "Coffee Break"
   place: "Hall"
   service: true
@@ -60,8 +60,62 @@
   title: "Algumas palavras sobre Computação: Passado, Presente e Futuro."
   description: ""
   subtype: presentation
-  # speakers: [] -Jerusa Marchi
+  speakers: [2]
   language: pt-br
   complexity: "Introdutória"
   # presentation:
   # video:
+-
+  id: 101
+  title: "Minicurso: Versionamento de código com Git e Github"
+  description: "<p>Produzir software nunca foi uma tarefa fácil, pois à medida que
+                novas funcionalidades são codificadas, torna-se mais dificil
+                rastrear possíveis bugs e dar manutenabilidade ao sistema. Com
+                uma ferramenta de versionamento de código é possível tornar essa
+                tarefa mais fácil e prática para os desenvolvedores. Este
+                minicurso abordará duas tecnologias: git, usada para
+                versionamento local e o github como repositório distribuido.
+                Será feita uma motivação, de como elas podem ser úteis na
+                prática, seus conceitos básicos e intermediários, além de
+                mostrar o que fazer em certas situações do cotidiano que não
+                parecem ter solução.</p>
+
+                <h7><b>Pré-requisitos:</b></h7>
+                <li> Conhecimento de programação no mínimo básico.</li>
+                <li> Familiaridade com o terminal do linux.</li>"
+  speakers: [3]
+  subtype: workshop
+  language: pt-br
+  complexity: "Introdutória"
+-
+  id: 102
+  title: "Minicurso: Ambientes leves e automatizados com docker"
+  description: "<p>Escalabilidade é um conceito que muitos softwares tem como
+                alicerce neste momento. Se o número de usuários aumentar, deve
+                ser possível alocar mais recurso de um jeito prático e rápido.
+                Paralelo a isso, configurar esses novos ambientes para deploy
+                podem ser processos demorados e repetitivos muitas vezes,
+                tirando o trabalho real do desenvolvedor. O docker surge como
+                uma tecnologia de container para resolver esses e outros
+                problemas. É possível subir ambientes complexos em poucas linhas
+                de comando, além de simular trocas de dados e alocação de
+                recursos entre aplicações distribuidas de forma local. O
+                minicurso dará uma motivação de quando é válido usar docker,
+                os conceitos importantes do software e como configurar, criar e
+                automatizar containers para suas necessidades. </p>
+
+                <h7><b>Pré-requisitos:</b></h7>
+                <li>Conhecimento de programação no mínimo básico.</li>
+                <li>Conhecimento de protocolo HTTP.</li>
+                <li>Familiaridade com o terminal do linux.</li>"
+  speakers: [3]
+  subtype: workshop
+  language: pt-br
+  complexity: "Introdutória"
+-
+  id: 201
+  title: "Mesa Redonda: Caminhos após a graduação"
+  description: ""
+  speakers: [4]
+  subtype: presentation
+  language: pt-br
