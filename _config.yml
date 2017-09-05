@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Início"}
  - {permalink: "/blog/", text: "Notícias"}
  - {permalink: "/schedule/", text: "Programação"}
- - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/speakers/", text: "Convidados"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 rightNavigationButtons:
