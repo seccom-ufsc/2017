@@ -5,7 +5,7 @@
     - {name: "SafeWeb",
        description: "SafeWeb",
        link: "https://safeweb.com.br/",
-       image_url: "safeweb.svg",
+       image_url: "safeweb.png",
        }
 #-
 #  group: "Patrocinadores Ouro"
