@@ -7,20 +7,20 @@
        link: "https://safeweb.com.br/",
        image_url: "safeweb.png",
        }
-#-
-#  group: "Patrocinadores Ouro"
-#  elements:
-#    - {name: "Google",
-#       description: "Google",
-#       link: "https://www.google.com.ua/intl/en/about/",
-#       image_url: "google.svg"}
-#-
-#  group: "Patrocinadores Prata"
-#  elements:
-#    - {name: "Google",
-#       description: "Google",
-#       link: "https://www.google.com.ua/intl/en/about/",
-#       image_url: "google.svg"}
+-
+  group: "Patrocinadores Ouro"
+  elements:
+    - {name: "Bridge",
+       description: "Bridge",
+       link: "https://www.google.com.ua/intl/en/about/",
+       image_url: "bridge.svg"}
+-
+  group: "Patrocinadores Prata"
+  elements:
+    - {name: "Linx",
+       description: "Linx",
+       link: "https://www.chaordic.com.br/",
+       image_url: "lnclogo-clear-back.svg"}
 -
   group: "Promoção"
   elements:
