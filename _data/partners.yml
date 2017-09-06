@@ -7,13 +7,13 @@
        link: "https://safeweb.com.br/",
        image_url: "safeweb.png",
        }
--
-  group: "Patrocinadores Ouro"
-  elements:
-    - {name: "Bridge",
-       description: "Bridge",
-       link: "https://www.google.com.ua/intl/en/about/",
-       image_url: "bridge.svg"}
+# -
+#   group: "Patrocinadores Ouro"
+#   elements:
+#     - {name: "Bridge",
+#        description: "Bridge",
+#        link: "https://www.google.com.ua/intl/en/about/",
+#        image_url: "bridge.svg"}
 -
   group: "Patrocinadores Prata"
   elements:
@@ -28,4 +28,4 @@
        description: "Universidade Federal de Santa Catarina",
        link: "https://ufsc.br",
        image_url: "ufsc-crest.svg",
-       width: "120px"}
+       width: "100px"}
