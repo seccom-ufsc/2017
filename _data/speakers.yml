@@ -27,12 +27,13 @@
  surname: "Inacio"
  company: "Laboratório de Pesquisa em Sistemas Distribuídos, UFSC"
  bio: "Eduardo Camilo Inacio é Mestre em Ciência da Computação pela Universidade
-       Federal de Santa Catarina (UFSC), e atualmente está no seu terceiro ano de
-       Doutorado, também no Programa de Pós-Graduação em Ciência da Computação (PPGCC)
-       da UFSC. Ele é membro do Laboratório de Pesquisa em Sistemas Distribuídos
-       (LAPESD), do Departamento de Informática e Estatística (INE) da UFSC, e do
-       Advanced Visualization Research Team, no RIKEN Advanced Institute for
-       Computational Science (AICS), em Kobe, Japão."
+       Federal de Santa Catarina (UFSC), e atualmente está no seu terceiro ano
+       de Doutorado, também no Programa de Pós-Graduação em Ciência da
+       Computação (PPGCC) da UFSC. Ele é membro do Laboratório de Pesquisa em
+       Sistemas Distribuídos (LAPESD), do Departamento de Informática e
+       Estatística (INE) da UFSC, e do Advanced Visualization Research Team, no
+       RIKEN Advanced Institute for Computational Science (AICS), em Kobe,
+       Japão."
  thumbnailUrl: EduardoCamilo.jpg
 -
  id: 2
@@ -83,3 +84,24 @@
    - {name: "twitter", link: "https://twitter.com/brunogh"}
    - {name: "github", link: "https://github.com/brunogh"}
    - {name: "linkedin", link: "https://br.linkedin.com/in/brunoghisi/"}
+-
+ id: 5
+ name: "Rafael Dobrachinsky"
+ surname: "Plentz"
+ company: "Dataprev-SC"
+ title: "PMO"
+ bio: "Graduado em Ciência da Computação em 2000 pela Universidade de Cruz Alta
+       e mestre em Gerenciamento de Redes pela Universidade Federal de Santa
+       Catarina (2003); Entusiasta da inovação tecnológica no apoio a serviços
+       e do empreendedorismo. Ocupo a função de analista de TI atuando como PMO
+       na Dataprev/SC. Possuo quinze anos de docência e hoje professor na
+       Graduação de Sistemas de Informação e Pós-graduação de Gerenciamento de
+       Projetos e de Desenvolvimento de Sistemas na Faculdade Estácio de Sá em
+       Florianópolis; Tenho experiência na área de Inovação Tecnológica e
+       gerente do Projeto Univoxer do Sinapse da Inovação de 2016. Áreas de
+       pesquisa e interesse: Gerenciamento de Projetos, Engenharia de Software,
+       Empreendedorismo e Inovação."
+ thumbnailUrl: RafaelPlentz.jpg
+ social:
+   - {name: "link", link: "http://lattes.cnpq.br/0064108815942336"}
+
