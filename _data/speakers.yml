@@ -103,5 +103,23 @@
        Empreendedorismo e Inovação."
  thumbnailUrl: RafaelPlentz.jpg
  social:
-   - {name: "link", link: "http://lattes.cnpq.br/0064108815942336"}
+   - {name: "url", link: "http://lattes.cnpq.br/0064108815942336"}
+-
+ id: 6
+ name: "Luiz Cláudio"
+ surname: "Villar dos Santos"
+ company: "Laboratório de Computação Embarcada - ECL"
+ bio: "Luiz Cláudio Villar dos Santos é Doutor em Ciência da Computação pela
+       Eindhoven University of Technology (Holanda), tendo também estudado na
+       Université Catholique de Louvain (Bélgica) na UFRGS (mestrado em
+       Computação) e na UFPR (graduação em Engenharia Elétrica). É professor
+       Titular da UFSC, onde atua há 24 anos, sendo orientador de doutorado e
+       mestrado em dois Programas de Pós-Graduação: Engenharia de Automação e
+       Sistemas (PGEAS) e Ciência da Computação (PPGCC). Atua na área de
+       Electronic Design Automation (EDA), tendo fundado em 2000 o laboratório
+       que hoje se denomina Embedded Computing Lab, do qual é o supervisor. Seu
+       principal interesse é o de aplicar conceitos de Arquitetura de
+       Computadores ao desenvolvimento de Algoritmos capazes de encontrar
+       (automaticamente) erros de projeto em multicore chips."
+ thumbnailUrl: LuizClaudio.jpg
 
