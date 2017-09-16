@@ -97,6 +97,30 @@
   subtype: presentation
   speakers: [6]
   language: pt-br
+  complexity: "Introdutória"
+
+-
+  id: 005
+  title: "Como organizar bailes com pessoas divertidas (ou: Coloração de
+          arestas de grafos com grau máximo elevado)"
+  description: "O Problema da Coloração de Arestas de Grafos, apesar de
+                (NP-)difícil, aparece em muitas situações práticas, como
+                escalonamento de links por protocolos de comunicação em redes
+                de sensores, escalonamento de processos em controle de
+                produção, escalonamento de partidas em rodadas de jogos,
+                associação de frequências de luz a pares de nós em comunicação
+                por fibra óptica, e (para fins ilustrativos) organização de
+                bailes. Uma importante conjectura, enunciada há mais de 30
+                anos, sugere a existência de um algoritmo polinomial para o
+                problema quando restrito a grafos com grau máximo elevado,
+                embora tal algoritmo não seja ainda conhecido. No entanto,
+                resultados parciais vêm sido obtidos, entre os quais alguns do
+                palestrante. Este seminário visa uma introdução ao assunto e
+                uma apresentação de alguns destes resultados."
+  subtype: presentation
+  speakers: [9]
+  language: pt-br
+  complexity: "Introdutória"
 
 
 -
@@ -147,9 +171,25 @@
   language: pt-br
   complexity: "Introdutória"
 -
+  id: 103
+  title: "Minicurso: Go 102: A Workshop"
+  description: "<p><b>Ementa</b>:
+                <li>Introdução rápida a linguagem: tipos primitivos, declaração
+                    de variáveis, funções e tipos customizados.</li>
+                <li>Programação orientada a objeto: métodos, interfaces,
+                    embedding e composição.</li>
+                <li>Concorrência: goroutines e channels.</li>
+
+                <h7><b>Pré-requisitos</b></h7>
+                <li>Experiência prática com os principios de desenvolvimento de
+                    software orientado a objeto (em qualquer linguagem).</li>"
+  speakers: [7]
+  subtype: workshop
+  language: pt-br
+-
   id: 201
   title: "Mesa Redonda: Caminhos após a graduação"
   description: ""
-  speakers: [1, 4, 5]
+  speakers: [1, 4, 5, 8]
   subtype: presentation
   language: pt-br

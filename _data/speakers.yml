@@ -122,4 +122,48 @@
        Computadores ao desenvolvimento de Algoritmos capazes de encontrar
        (automaticamente) erros de projeto em multicore chips."
  thumbnailUrl: LuizClaudio.jpg
+ social:
+   - {name: "site", link: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4780821U4"}
+-
+ id: 7
+ name: "Paulo"
+ surname: "Casaretto"
+ company: "Resultados Digitais"
+ title: "Desenvolvedor"
+ bio: "Formado em Engenharia de Controle e Automação pela UFSC, Paulo Casaretto
+       é desenvolvedor na Resultados Digitais desde 2011."
+ thumbnailUrl: PauloCasaretto.jpg
+-
+ id: 8
+ name: "Lais"
+ surname: "Borin"
+ company: "Laboratório de Pesquisa em Sistemas Distribuídos, UFSC"
+ title: "Mestranda"
+ bio: "Graduada em Ciência da Computação pela Universidade Federal da Fronteira
+       Sul (UFFS) em 2016, realizou, durante a graduação, estágio
+       não-obrigatório na Diretoria de Sistemas da universidade e participou de
+       projeto de iniciação cientifica sobre real-time scheduling. Após a
+       graduação ministrou as disciplinas de Teoria da Computação e Grafos,
+       como professora substituta na UFFS. Atualmente é mestranda do Programa
+       de Pós-Graduação em Ciência da Computação pela Universidade Federal de
+       Santa Catarina (UFSC) e realiza pesquisa em energy-aware real-time
+       scheduling no laboratório de sistemas distribuídos (LaPeSD)."
+ thumbnailUrl: LaisBorin.jpg
+-
+ id: 9
+ name: "Leandro"
+ surname: "Miranda Zatesko"
+ company: "Universidade Federal do Paraná"
+ title: "Doutorando"
+ bio: "Leandro M. Zatesko é professor na Universidade Federal da Fronteira Sul
+       (UFFS), em Chapecó, SC, afastado para doutoramento na UFPR, onde também
+       fez sua graduação (2008) e mestrado (2011). Atua nas áreas de
+       Algoritmos, Teoria da Computação e Teoria dos Grafos. Foi coach dos
+       times da UFFS de 2013 a 2016 na Maratona de Programação e é autor de
+       diversos problemas para o Portal URI Online Judge. Em Pesquisa, vem
+       publicando trabalhos sobre problemas de coloração de grafos em revistas
+       e conferências internacionais."
+ thumbnailUrl: LeandroZatesko.jpg
+ social:
+   - {name: "site", link: "http://lattes.cnpq.br/4259616811045288"}
 
