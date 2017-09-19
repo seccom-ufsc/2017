@@ -5,22 +5,35 @@
     - {name: "SafeWeb",
        description: "SafeWeb",
        link: "https://safeweb.com.br/",
-       image_url: "safeweb.png",
+       image_url: "safeweb.svg",
        }
+    # - {name: "Softplan",
+    #    description: "Softplan",
+    #    link: "https://www.softplan.com.br/",
+    #    image_url: "softplan.svg",
+    #    }
 # -
 #   group: "Patrocinadores Ouro"
 #   elements:
-#     - {name: "Bridge",
-#        description: "Bridge",
-#        link: "https://www.google.com.ua/intl/en/about/",
-#        image_url: "bridge.svg"}
+    # - {name: "Bridge",
+    #    description: "Bridge",
+    #    link: "https://bridge.ufsc.br/",
+    #    image_url: "bridge.svg"}
+    # - {name: "Resultados Digitais",
+    #    description: "Resultados Digitais",
+    #    link: "https://resultadosdigitais.com.br/",
+    #    image_url: "rd.svg"}
+    # - {name: "Khomp",
+    #    description: "Khomp ",
+    #    link: "http://www.khomp.com/pt/",
+    #    image_url: "khomp.svg"}
 -
   group: "Patrocinadores Prata"
   elements:
     - {name: "Linx",
-       description: "Linx",
+       description: "linx + neemu + chaordic",
        link: "https://www.chaordic.com.br/",
-       image_url: "lnclogo-clear-back.svg"}
+       image_url: "chaordic.svg"}
 -
   group: "Promoção"
   elements:

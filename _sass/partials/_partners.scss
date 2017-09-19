@@ -5,9 +5,8 @@
     .list-inline {
         margin-bottom: 65px;
         li {
-            width: 16%;
-            max-width: 180px;
-            margin: 13px 7px;
+            max-width: 220px;
+            margin: 25px;
 
             @media (max-width: 767px) {
                 width: 40%;
@@ -15,14 +14,20 @@
             }
         }
     }
-    img {
-        width: 100%;
-    }
 
     .diamond {
         li {
-            width: 24%;
-            max-width: 270px;
+            max-width: 300px;
+            margin: 25px;
+
+            @media (max-width: 767px) {
+                width: 60%;
+                max-width: 240px;
+            }
         }
+    }
+
+    img {
+        width: 100%;
     }
 }
