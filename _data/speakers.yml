@@ -166,4 +166,29 @@
  thumbnailUrl: LeandroZatesko.jpg
  social:
    - {name: "site", link: "http://lattes.cnpq.br/4259616811045288"}
-
+-
+ id: 10
+ name: "Carlos"
+ surname: "Bonetti"
+ company: "Laboratório Bridge"
+ title: "Desenvolvedor Full Stack"
+ bio: "Graduado em Ciência da Computação pela Universidade Federal de Santa
+       Catarina. Trabalha desde 2015 no Laboratório Bridge como desenvolvedor
+       Full Stack, atuando nos projetos e-SUS, SISMOB (Sistema de Monitoramento
+       de Obras) e no RNI (Registro Nacional de Implantes). Brigando com o IE
+       desde 2009, já trabalhou com as mais diversas tecnologias do mundo web
+       desde então. Entusiasta do open source, acredita que o javascript ainda
+       dominará o mundo."
+ thumbnailUrl: CarlosBonetti.jpg
+-
+ id: 11
+ name: "Felipe"
+ surname: "Simeão Taboada"
+ company: "Laboratório Bridge"
+ title: "Arquiteto de Sistemas"
+ bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
+       há quase 7 anos com desevolvimento de software, desde 2013 no
+       Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
+       e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
+       nacional de implantes)"
+ thumbnailUrl: FelipeTaboada.jpg

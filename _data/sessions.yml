@@ -179,11 +179,42 @@
                 <li>Programação orientada a objeto: métodos, interfaces,
                     embedding e composição.</li>
                 <li>Concorrência: goroutines e channels.</li>
+                </p>
 
                 <h7><b>Pré-requisitos</b></h7>
                 <li>Experiência prática com os principios de desenvolvimento de
                     software orientado a objeto (em qualquer linguagem).</li>"
   speakers: [7]
+  subtype: workshop
+  language: pt-br
+-
+  id: 104
+  title: "Minicurso: Introdução ao React e Redux"
+  description: "<p>
+                Você já precisou adicionar um estado ou componente a uma
+                interface de sistema que já possuía certa complexidade, e se
+                deparou com fluxos confusos que fizeram sua aplicação se
+                comportar de maneira indesejada em certos momentos? Ou perdeu o
+                controle do fluxo de dados quando múltiplos componentes que
+                exibem a mesma informação perderam a sincronia?
+
+                Baseado no paradigma declarativo e no reuso de componentes,
+                React é uma biblioteca javascript com uma abordagem moderna à
+                construção de interfaces de usuário, desenvolvida pelo
+                Facebook/Instagram. Seu uso é comumente combinado com o Redux,
+                um padrão de gerenciamento do estado da aplicação que ajuda a
+                manter a consistência e manipular os dados. Ambas as
+                tecnologias vem ganhando momento no mercado e já são utilizadas
+                por grandes empresas como Netflix, Airbnb, Spotify, B2W e
+                também pelo laboratório Bridge.
+
+                Este minicurso abordará as duas tecnologias através da
+                explanação de conceitos teóricos introdutórios e construção de
+                uma mini-aplicação exemplificando seu uso prático.</p>
+
+                <h7><b>Pré-requisitos:</b></h7>
+                <li>HTML e Javascript (<i>frontend</i> básico).</li>"
+  speakers: [10, 11]
   subtype: workshop
   language: pt-br
 -
