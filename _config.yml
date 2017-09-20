@@ -49,14 +49,14 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
+    #- {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "SECCOM 2017"
 eventDate: "2 a 6 de Outubro"
 heroButtons:
- - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
+    #- {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 
 # About Block
