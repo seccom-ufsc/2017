@@ -12,17 +12,17 @@
        link: "https://www.softplan.com.br/",
        image_url: "softplan.svg",
        }
-# -
-#   group: "Patrocinadores Ouro"
-#   elements:
-    # - {name: "Bridge",
-    #    description: "Bridge",
-    #    link: "https://bridge.ufsc.br/",
-    #    image_url: "bridge.svg"}
-    # - {name: "Resultados Digitais",
-    #    description: "Resultados Digitais",
-    #    link: "https://resultadosdigitais.com.br/",
-    #    image_url: "rd.svg"}
+-
+  group: "Patrocinadores Ouro"
+  elements:
+    - {name: "Bridge",
+       description: "Bridge",
+       link: "https://bridge.ufsc.br/",
+       image_url: "bridge.svg"}
+    - {name: "Resultados Digitais",
+       description: "Resultados Digitais",
+       link: "https://resultadosdigitais.com.br/",
+       image_url: "rd.svg"}
     # - {name: "Khomp",
     #    description: "Khomp ",
     #    link: "http://www.khomp.com/pt/",
