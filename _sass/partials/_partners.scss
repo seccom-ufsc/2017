@@ -5,12 +5,12 @@
     .list-inline {
         margin-bottom: 65px;
         li {
-            max-width: 240px;
-            margin: 15px;
+            max-width: 300px;
+            margin: 25px;
 
             @media (max-width: 767px) {
-                width: 40%;
-                max-width: 160px;
+                width: 100%;
+                max-width: 300px;
             }
         }
     }
@@ -21,8 +21,8 @@
             margin: 25px;
 
             @media (max-width: 767px) {
-                width: 60%;
-                max-width: 240px;
+                width: 100%;
+                max-width: 300px;
             }
         }
     }

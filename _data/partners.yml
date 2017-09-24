@@ -18,22 +18,29 @@
     - {name: "Bridge",
        description: "Bridge",
        link: "https://bridge.ufsc.br/",
-       image_url: "bridge.svg"}
+       image_url: "bridge.svg",
+       width: 200px
+      }
     - {name: "Resultados Digitais",
        description: "Resultados Digitais",
        link: "https://resultadosdigitais.com.br/",
-       image_url: "rd.svg"}
-    # - {name: "Khomp",
-    #    description: "Khomp ",
-    #    link: "http://www.khomp.com/pt/",
-    #    image_url: "khomp.svg"}
+       image_url: "rd.svg"
+      }
+    - {name: "Khomp",
+       description: "Khomp ",
+       link: "http://www.khomp.com/pt/",
+       image_url: "khomp.svg",
+       width: 195px
+      }
 -
   group: "Patrocinadores Prata"
   elements:
     - {name: "Linx",
        description: "linx + neemu + chaordic",
        link: "https://www.chaordic.com.br/",
-       image_url: "chaordic.svg"}
+       image_url: "chaordic.svg",
+       width: 135px
+      }
 -
   group: "Promoção"
   elements:
