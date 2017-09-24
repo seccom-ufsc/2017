@@ -218,6 +218,72 @@
   subtype: workshop
   language: pt-br
 -
+  id: 105
+  title: "Minicurso: Conan, o gerente de pacotes para C e C++"
+  description: "<p>
+                Assim como Maven está para Java e pip está para Python. Conan
+                está para C/C++. Este moderno  gerenciador de pacotes de
+                dependências para C/C++, foi escrito em python e está sob a
+                licença MIT.  Para aquelas dependências externas que são
+                copiadas localmente para serem construídas com um determinado
+                projeto, Conan provê a solução de resolver este acoplamento de
+                forma dinâmica e inteligente.
+                Esta oficina visa apresentar o conceito do projeto Conan e o
+                seu uso dentro da Khomp,  exercitar o uso da ferramenta durante
+                o minicurso.
+                </p>"
+  speakers: []
+  subtype: workshop
+  language: pt-br
+
+-
+  id: 106
+  title: "Minicurso: A linguagem de programação Python"
+  description: "<p>
+                </p>"
+  speakers: [12]
+  subtype: workshop
+  language: pt-br
+
+-
+  id: 107
+  title: "Minicurso: Programando uma IoT confiável: a API Smart Data"
+  description: "<p>
+                A Internet das Coisas (IoT) é uma tecnologia emergente com o
+                potencial de transformar o mundo de um sistema físico em um
+                Sistema Cyber-Físico (CPS). Para informação ser útil em tal
+                sistema, dados brutos necessitam ser prontamente
+                interpretáveis. Deve-se saber não só o valor de uma leitura de
+                um sensor, mas também sua localização geográfica, tempo exato,
+                interpretação (unidade, precisão, codificação), e ter evidência
+                para confiar em sua integridade. A API Smart Data é uma
+                proposta do LISHA/UFSC para enriquecer dados em tal CPS com os
+                metadados necessários e prover uma interface limpa para
+                interação com hardware (local ou remoto), bem como com a IoT.
+                Neste minicurso, a API Smart Data será apresentada.
+                Participantes terão acesso a um dispositivo de IoT real
+                (EPOSMoteIII) e usarão a API no sistema operacional EPOS para
+                programá-lo como um nodo sensor em uma rede, enviando dados de
+                seus sensores para um nodo central e disponibilizando seus
+                atuadores para o mesmo. Os dados produzidos pelos dispositivos
+                programados serão encaminhados ao vivo à infraestrutura de IoT
+                da UFSC e disponibilizados para consultas com APIs web de alto
+                nível.
+                </p>
+
+                <p><b>Ementa:</b></p>
+                <li>Programação de um nodo sensor EPOSMoteIII em uma Rede de Sensores Sem Fios</li>
+                <li>Apresentação e uso da API Smart Data</li>
+                <li>A infraestrutura de IoT da UFSC</li>
+
+                <h7><b>Pré-requisitos:</b></h7>
+                <li>Conhecimento básico de C++</li>
+                <li>1 Cabo de dados micro-USB</li>"
+  speakers: [13, 14, 15]
+  subtype: workshop
+  language: pt-br
+
+-
   id: 201
   title: "Mesa Redonda: Caminhos após a graduação"
   description: ""
