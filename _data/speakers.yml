@@ -1,194 +1,251 @@
 -
- id: 0
- name: "Guilherme"
- surname: "Kundlatsch"
- company: "iGEM Foundation"
- title: "Brazilian iGEM Ambassador"
- bio: "Graduando em Biotecnologia pela UFSCar, fui bolsista do Programa Jovens
-       Talentos para a Ciência pela CAPES/CNPq e realizei um ano de mobilidade
-       acadêmica na University of Sheffield, onde defendi o Project Reproduction
-       of two generic genetic oscillator models using a deterministic approach
-       and application of robustness tests against noise, considerado First
-       Class. Em 2014 fui membro da equipe Brasil-SP (composta por USP, UFSCar e
-       Unesp), premiada com medalha de bronze e o Interlab Study Award no iGEM,
-       em Boston, MA. Em 2015 fui um dos fundadores da equipe independente da
-       UFSCar e em 2016 fui advisor da equipe da University of Sheffield, que
-       conquistou medalha de ouro e foi indicada ao prêmio de melhor projeto de
-       diagnóstico. Hoje sou embaixador do iGEM no Brasil, visitando órgãos
-       governamentais, instituições de ensino e empresas, buscando fomentar e
-       sustentar grupos do iGEM pelo país."
- thumbnailUrl: GuilhermeKundlatsch.jpg
- social:
-   - {name: "linkedin", link: "https://www.linkedin.com/in/guilherme-kundlatsch-8940a5132/"}
-   - {name: "facebook", link: "https://www.facebook.com/guilherme.kundlatsch"}
+  id: 0
+  name: "Guilherme"
+  surname: "Kundlatsch"
+  company: "iGEM Foundation"
+  title: "Brazilian iGEM Ambassador"
+  bio: "Graduando em Biotecnologia pela UFSCar, fui bolsista do Programa Jovens
+        Talentos para a Ciência pela CAPES/CNPq e realizei um ano de mobilidade
+        acadêmica na University of Sheffield, onde defendi o Project Reproduction
+        of two generic genetic oscillator models using a deterministic approach
+        and application of robustness tests against noise, considerado First
+        Class. Em 2014 fui membro da equipe Brasil-SP (composta por USP, UFSCar e
+        Unesp), premiada com medalha de bronze e o Interlab Study Award no iGEM,
+        em Boston, MA. Em 2015 fui um dos fundadores da equipe independente da
+        UFSCar e em 2016 fui advisor da equipe da University of Sheffield, que
+        conquistou medalha de ouro e foi indicada ao prêmio de melhor projeto de
+        diagnóstico. Hoje sou embaixador do iGEM no Brasil, visitando órgãos
+        governamentais, instituições de ensino e empresas, buscando fomentar e
+        sustentar grupos do iGEM pelo país."
+  thumbnailUrl: GuilhermeKundlatsch.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/guilherme-kundlatsch-8940a5132/"}
+    - {name: "facebook", link: "https://www.facebook.com/guilherme.kundlatsch"}
 -
- id: 1
- name: "Eduardo Camilo"
- surname: "Inacio"
- company: "Laboratório de Pesquisa em Sistemas Distribuídos, UFSC"
- bio: "Eduardo Camilo Inacio é Mestre em Ciência da Computação pela Universidade
-       Federal de Santa Catarina (UFSC), e atualmente está no seu terceiro ano
-       de Doutorado, também no Programa de Pós-Graduação em Ciência da
-       Computação (PPGCC) da UFSC. Ele é membro do Laboratório de Pesquisa em
-       Sistemas Distribuídos (LAPESD), do Departamento de Informática e
-       Estatística (INE) da UFSC, e do Advanced Visualization Research Team, no
-       RIKEN Advanced Institute for Computational Science (AICS), em Kobe,
-       Japão."
- thumbnailUrl: EduardoCamilo.jpg
+  id: 1
+  name: "Eduardo Camilo"
+  surname: "Inacio"
+  company: "Laboratório de Pesquisa em Sistemas Distribuídos, UFSC"
+  bio: "Eduardo Camilo Inacio é Mestre em Ciência da Computação pela Universidade
+        Federal de Santa Catarina (UFSC), e atualmente está no seu terceiro ano
+        de Doutorado, também no Programa de Pós-Graduação em Ciência da
+        Computação (PPGCC) da UFSC. Ele é membro do Laboratório de Pesquisa em
+        Sistemas Distribuídos (LAPESD), do Departamento de Informática e
+        Estatística (INE) da UFSC, e do Advanced Visualization Research Team, no
+        RIKEN Advanced Institute for Computational Science (AICS), em Kobe,
+        Japão."
+  thumbnailUrl: EduardoCamilo.jpg
 -
- id: 2
- name: "Jerusa"
- surname: "Marchi"
- company: "Departamento de Informática e Estatística, USFC"
- bio: "Jerusa Marchi possui graduação em Ciência da Computação pela Universidade
-       Estadual do Oeste do Paraná (1998), mestrado em Engenharia Elétrica pela
-       Universidade Federal de Santa Catarina (2001) e doutorado em Engenharia
-       Elétrica pela Universidade Federal de Santa Catarina (2006) e em
-       Informática pela Université Toulouse I - Toulouse - França (2006),
-       realizado em co-tutela. Atualmente é professora adjunta no Departamento
-       de Informática e Estatística da Universidade Federal de Santa Catarina.
-       Tem experiência na área de Ciência da Computação, com ênfase em
-       Matemática da Computação, atuando principalmente nos seguintes temas:
-       inteligência artificial (lógica e representação do conhecimento,
-       processos de mudança de crenças, sistemas cognitivos), teoria da
-       computação (reduções e satisfazibilidade booleana)."
- thumbnailUrl: JerusaMarchi.jpg
+  id: 2
+  name: "Jerusa"
+  surname: "Marchi"
+  company: "Departamento de Informática e Estatística, USFC"
+  bio: "Jerusa Marchi possui graduação em Ciência da Computação pela
+        Universidade Estadual do Oeste do Paraná (1998), mestrado em Engenharia
+        Elétrica pela Universidade Federal de Santa Catarina (2001) e doutorado
+        em Engenharia Elétrica pela Universidade Federal de Santa Catarina
+        (2006) e em Informática pela Université Toulouse I - Toulouse - França
+        (2006), realizado em co-tutela. Atualmente é professora adjunta no
+        Departamento de Informática e Estatística da Universidade Federal de
+        Santa Catarina.
+        Tem experiência na área de Ciência da Computação, com ênfase em
+        Matemática da Computação, atuando principalmente nos seguintes temas:
+        inteligência artificial (lógica e representação do conhecimento,
+        processos de mudança de crenças, sistemas cognitivos), teoria da
+        computação (reduções e satisfazibilidade booleana)."
+  thumbnailUrl: JerusaMarchi.jpg
 -
- id: 3
- name: "Marcos"
- surname: "Schead dos Santos"
- company: "Laboratório Bridge"
- title: "Desenvolvedor iOS"
- bio: "Graduando de Ciências da Computação na UFSC, Marcos Schead trabalha faz
-       dois anos no Laboratório Bridge, inicialmente na área de qualidade e
-       testes, dentro do projeto de prontuário eletrônico e-SUS AB. Alguns meses
-       depois tornou-se desenvolvedor Java Web no projeto SISMOB (Gerenciamento
-       de Obras da Saúde) e no momento está como desenvolvedor iOS (iPhone e
-       iPad) usando a linguagem Swift, criando a versão mobile do projeto
-       SISMOB."
- thumbnailUrl: MarcosSchead.png
+  id: 3
+  name: "Marcos"
+  surname: "Schead dos Santos"
+  company: "Laboratório Bridge"
+  title: "Desenvolvedor iOS"
+  bio: "Graduando de Ciências da Computação na UFSC, Marcos Schead trabalha faz
+        dois anos no Laboratório Bridge, inicialmente na área de qualidade e
+        testes, dentro do projeto de prontuário eletrônico e-SUS AB. Alguns
+        meses depois tornou-se desenvolvedor Java Web no projeto SISMOB
+        (Gerenciamento de Obras da Saúde) e no momento está como desenvolvedor
+        iOS (iPhone e iPad) usando a linguagem Swift, criando a versão mobile
+        do projeto SISMOB."
+  thumbnailUrl: MarcosSchead.png
 -
- id: 4
- name: "Bruno"
- surname: "Ghisi"
- company: "Resultados Digitais"
- title: "Co-fundador e CTO"
- bio: "Mestre em ciência da computação pela UFSC. Co-fundador e CTO da
-       Resultados Digitais, empresa criadora do RD Station, que é a plataforma
-       de automação de marketing líder LATAM com mais de 10 mil clientes, 500
-       colaboradores e 1500 agências parceiras. A RD foi 3x consecutivas eleita
-       o melhor lugar para se trabalhar em Santa Catarina pelo GPTW. Selecionado
-       como Empreendedor Endeavor em 2016. Investidor anjo."
- thumbnailUrl: BrunoGhisi.jpg
- social:
-   - {name: "twitter", link: "https://twitter.com/brunogh"}
-   - {name: "github", link: "https://github.com/brunogh"}
-   - {name: "linkedin", link: "https://br.linkedin.com/in/brunoghisi/"}
+  id: 4
+  name: "Bruno"
+  surname: "Ghisi"
+  company: "Resultados Digitais"
+  title: "Co-fundador e CTO"
+  bio: "Mestre em ciência da computação pela UFSC. Co-fundador e CTO da
+        Resultados Digitais, empresa criadora do RD Station, que é a plataforma
+        de automação de marketing líder LATAM com mais de 10 mil clientes, 500
+        colaboradores e 1500 agências parceiras. A RD foi 3x consecutivas
+        eleita o melhor lugar para se trabalhar em Santa Catarina pelo GPTW.
+        Selecionado como Empreendedor Endeavor em 2016. Investidor anjo."
+  thumbnailUrl: BrunoGhisi.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/brunogh"}
+    - {name: "github", link: "https://github.com/brunogh"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/brunoghisi/"}
 -
- id: 5
- name: "Rafael Dobrachinsky"
- surname: "Plentz"
- company: "Dataprev-SC"
- title: "PMO"
- bio: "Graduado em Ciência da Computação em 2000 pela Universidade de Cruz Alta
-       e mestre em Gerenciamento de Redes pela Universidade Federal de Santa
-       Catarina (2003); Entusiasta da inovação tecnológica no apoio a serviços
-       e do empreendedorismo. Ocupo a função de analista de TI atuando como PMO
-       na Dataprev/SC. Possuo quinze anos de docência e hoje professor na
-       Graduação de Sistemas de Informação e Pós-graduação de Gerenciamento de
-       Projetos e de Desenvolvimento de Sistemas na Faculdade Estácio de Sá em
-       Florianópolis; Tenho experiência na área de Inovação Tecnológica e
-       gerente do Projeto Univoxer do Sinapse da Inovação de 2016. Áreas de
-       pesquisa e interesse: Gerenciamento de Projetos, Engenharia de Software,
-       Empreendedorismo e Inovação."
- thumbnailUrl: RafaelPlentz.jpg
- social:
-   - {name: "site", link: "http://lattes.cnpq.br/0064108815942336"}
+  id: 5
+  name: "Rafael Dobrachinsky"
+  surname: "Plentz"
+  company: "Dataprev-SC"
+  title: "PMO"
+  bio: "Graduado em Ciência da Computação em 2000 pela Universidade de Cruz
+        Alta e mestre em Gerenciamento de Redes pela Universidade Federal de
+        Santa Catarina (2003); Entusiasta da inovação tecnológica no apoio a
+        serviços e do empreendedorismo. Ocupo a função de analista de TI
+        atuando como PMO na Dataprev/SC. Possuo quinze anos de docência e hoje
+        professor na Graduação de Sistemas de Informação e Pós-graduação de
+        Gerenciamento de Projetos e de Desenvolvimento de Sistemas na Faculdade
+        Estácio de Sá em Florianópolis; Tenho experiência na área de Inovação
+        Tecnológica e gerente do Projeto Univoxer do Sinapse da Inovação de
+        2016. Áreas de pesquisa e interesse: Gerenciamento de Projetos,
+        Engenharia de Software, Empreendedorismo e Inovação."
+  thumbnailUrl: RafaelPlentz.jpg
+  social:
+    - {name: "site", link: "http://lattes.cnpq.br/0064108815942336"}
 -
- id: 6
- name: "Luiz Cláudio"
- surname: "Villar dos Santos"
- company: "Laboratório de Computação Embarcada, UFSC"
- bio: "Luiz Cláudio Villar dos Santos é Doutor em Ciência da Computação pela
-       Eindhoven University of Technology (Holanda), tendo também estudado na
-       Université Catholique de Louvain (Bélgica) na UFRGS (mestrado em
-       Computação) e na UFPR (graduação em Engenharia Elétrica). É professor
-       Titular da UFSC, onde atua há 24 anos, sendo orientador de doutorado e
-       mestrado em dois Programas de Pós-Graduação: Engenharia de Automação e
-       Sistemas (PGEAS) e Ciência da Computação (PPGCC). Atua na área de
-       Electronic Design Automation (EDA), tendo fundado em 2000 o laboratório
-       que hoje se denomina Embedded Computing Lab, do qual é o supervisor. Seu
-       principal interesse é o de aplicar conceitos de Arquitetura de
-       Computadores ao desenvolvimento de Algoritmos capazes de encontrar
-       (automaticamente) erros de projeto em multicore chips."
- thumbnailUrl: LuizClaudio.jpg
- social:
-   - {name: "site", link: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4780821U4"}
+  id: 6
+  name: "Luiz Cláudio"
+  surname: "Villar dos Santos"
+  company: "Laboratório de Computação Embarcada, UFSC"
+  bio: "Luiz Cláudio Villar dos Santos é Doutor em Ciência da Computação pela
+        Eindhoven University of Technology (Holanda), tendo também estudado na
+        Université Catholique de Louvain (Bélgica) na UFRGS (mestrado em
+        Computação) e na UFPR (graduação em Engenharia Elétrica). É professor
+        Titular da UFSC, onde atua há 24 anos, sendo orientador de doutorado e
+        mestrado em dois Programas de Pós-Graduação: Engenharia de Automação e
+        Sistemas (PGEAS) e Ciência da Computação (PPGCC). Atua na área de
+        Electronic Design Automation (EDA), tendo fundado em 2000 o laboratório
+        que hoje se denomina Embedded Computing Lab, do qual é o supervisor.
+        Seu principal interesse é o de aplicar conceitos de Arquitetura de
+        Computadores ao desenvolvimento de Algoritmos capazes de encontrar
+        (automaticamente) erros de projeto em multicore chips."
+  thumbnailUrl: LuizClaudio.jpg
+  social:
+    - {name: "site", link: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4780821U4"}
 -
- id: 7
- name: "Paulo"
- surname: "Casaretto"
- company: "Resultados Digitais"
- title: "Desenvolvedor"
- bio: "Formado em Engenharia de Controle e Automação pela UFSC, Paulo Casaretto
-       é desenvolvedor na Resultados Digitais desde 2011."
- thumbnailUrl: PauloCasaretto.jpg
+  id: 7
+  name: "Paulo"
+  surname: "Casaretto"
+  company: "Resultados Digitais"
+  title: "Desenvolvedor"
+  bio: "Formado em Engenharia de Controle e Automação pela UFSC, Paulo
+        Casaretto é desenvolvedor na Resultados Digitais desde 2011."
+  thumbnailUrl: PauloCasaretto.jpg
 -
- id: 8
- name: "Lais"
- surname: "Borin"
- company: "Laboratório de Pesquisa em Sistemas Distribuídos, UFSC"
- title: "Mestranda"
- bio: "Graduada em Ciência da Computação pela Universidade Federal da Fronteira
-       Sul (UFFS) em 2016, realizou, durante a graduação, estágio
-       não-obrigatório na Diretoria de Sistemas da universidade e participou de
-       projeto de iniciação cientifica sobre real-time scheduling. Após a
-       graduação ministrou as disciplinas de Teoria da Computação e Grafos,
-       como professora substituta na UFFS. Atualmente é mestranda do Programa
-       de Pós-Graduação em Ciência da Computação pela Universidade Federal de
-       Santa Catarina (UFSC) e realiza pesquisa em energy-aware real-time
-       scheduling no laboratório de sistemas distribuídos (LaPeSD)."
- thumbnailUrl: LaisBorin.jpg
+  id: 8
+  name: "Lais"
+  surname: "Borin"
+  company: "Laboratório de Pesquisa em Sistemas Distribuídos, UFSC"
+  title: "Mestranda"
+  bio: "Graduada em Ciência da Computação pela Universidade Federal da
+        Fronteira Sul (UFFS) em 2016, realizou, durante a graduação, estágio
+        não-obrigatório na Diretoria de Sistemas da universidade e participou
+        de projeto de iniciação cientifica sobre real-time scheduling. Após a
+        graduação ministrou as disciplinas de Teoria da Computação e Grafos,
+        como professora substituta na UFFS. Atualmente é mestranda do Programa
+        de Pós-Graduação em Ciência da Computação pela Universidade Federal de
+        Santa Catarina (UFSC) e realiza pesquisa em energy-aware real-time
+        scheduling no laboratório de sistemas distribuídos (LaPeSD)."
+  thumbnailUrl: LaisBorin.jpg
 -
- id: 9
- name: "Leandro"
- surname: "Miranda Zatesko"
- company: "Universidade Federal do Paraná"
- title: "Doutorando"
- bio: "Leandro M. Zatesko é professor na Universidade Federal da Fronteira Sul
-       (UFFS), em Chapecó, SC, afastado para doutoramento na UFPR, onde também
-       fez sua graduação (2008) e mestrado (2011). Atua nas áreas de
-       Algoritmos, Teoria da Computação e Teoria dos Grafos. Foi coach dos
-       times da UFFS de 2013 a 2016 na Maratona de Programação e é autor de
-       diversos problemas para o Portal URI Online Judge. Em Pesquisa, vem
-       publicando trabalhos sobre problemas de coloração de grafos em revistas
-       e conferências internacionais."
- thumbnailUrl: LeandroZatesko.jpg
- social:
-   - {name: "site", link: "http://lattes.cnpq.br/4259616811045288"}
+  id: 9
+  name: "Leandro"
+  surname: "Miranda Zatesko"
+  company: "Universidade Federal do Paraná"
+  title: "Doutorando"
+  bio: "Leandro M. Zatesko é professor na Universidade Federal da Fronteira Sul
+        (UFFS), em Chapecó, SC, afastado para doutoramento na UFPR, onde também
+        fez sua graduação (2008) e mestrado (2011). Atua nas áreas de
+        Algoritmos, Teoria da Computação e Teoria dos Grafos. Foi coach dos
+        times da UFFS de 2013 a 2016 na Maratona de Programação e é autor de
+        diversos problemas para o Portal URI Online Judge. Em Pesquisa, vem
+        publicando trabalhos sobre problemas de coloração de grafos em revistas
+        e conferências internacionais."
+  thumbnailUrl: LeandroZatesko.jpg
+  social:
+    - {name: "site", link: "http://lattes.cnpq.br/4259616811045288"}
 -
- id: 10
- name: "Carlos"
- surname: "Bonetti"
- company: "Laboratório Bridge"
- title: "Desenvolvedor Full Stack"
- bio: "Graduado em Ciência da Computação pela Universidade Federal de Santa
-       Catarina. Trabalha desde 2015 no Laboratório Bridge como desenvolvedor
-       Full Stack, atuando nos projetos e-SUS, SISMOB (Sistema de Monitoramento
-       de Obras) e no RNI (Registro Nacional de Implantes). Brigando com o IE
-       desde 2009, já trabalhou com as mais diversas tecnologias do mundo web
-       desde então. Entusiasta do open source, acredita que o javascript ainda
-       dominará o mundo."
- thumbnailUrl: CarlosBonetti.jpg
+  id: 10
+  name: "Carlos"
+  surname: "Bonetti"
+  company: "Laboratório Bridge"
+  title: "Desenvolvedor Full Stack"
+  bio: "Graduado em Ciência da Computação pela Universidade Federal de Santa
+        Catarina. Trabalha desde 2015 no Laboratório Bridge como desenvolvedor
+        Full Stack, atuando nos projetos e-SUS, SISMOB (Sistema de
+        Monitoramento de Obras) e no RNI (Registro Nacional de Implantes).
+        Brigando com o IE desde 2009, já trabalhou com as mais diversas
+        tecnologias do mundo web desde então. Entusiasta do open source,
+        acredita que o javascript ainda dominará o mundo."
+  thumbnailUrl: CarlosBonetti.jpg
 -
- id: 11
- name: "Felipe"
- surname: "Simeão Taboada"
- company: "Laboratório Bridge"
- title: "Arquiteto de Sistemas"
- bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
-       há quase 7 anos com desevolvimento de software, desde 2013 no
-       Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
-       e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
-       nacional de implantes)"
- thumbnailUrl: FelipeTaboada.jpg
+  id: 11
+  name: "Felipe"
+  surname: "Simeão Taboada"
+  company: "Laboratório Bridge"
+  title: "Arquiteto de Sistemas"
+  bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
+        há quase 7 anos com desevolvimento de software, desde 2013 no
+        Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
+        e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
+        nacional de implantes)"
+  thumbnailUrl: FelipeTaboada.jpg
+-
+  id: 12
+  name: "Tarcísio Eduardo"
+  surname: "Moreira Crocomo"
+  company: "Cellcrypt"
+  title: "Desenvolvedor Backend"
+  bio: "Tarcísio Eduardo Moreira Crocomo é formado em Ciência da Computação
+        pela UFSC desde 2013. Participou de pesquisas pelo Laboratório de
+        Integração Software/Hardware (LISHA) e pelo Laboratório de Computação
+        Embarcada (ECL) da UFSC. Trabalhou com C++ e Python na Audaces de 2013
+        a 2015 e atualmente trabalha principalmente com TypeScript em backend
+        pela Cellcrypt."
+  thumbnailUrl: CaraDoTarcisio.jpg
+
+-
+  id: 13
+  name: "Davi"
+  surname: "Resner"
+  company: "Laboratório de Integração Software/Hardware, UFSC"
+  title: "Mestrando"
+  bio: "Davi Resner is currently a Masters student on Computer Science at the
+        Federal University of Santa Catarina (UFSC), where he has been a member
+        of the Software/Hardware Integration Lab (LISHA) since 2013. At LISHA,
+        he has been involved in different (industrial and academic) projects
+        involving many aspects of Wireless Sensor Networks and the Internet of
+        Things, including security, cross-layer protocols, and smart buildings.
+        He received his bachelors degree in Computer Science by UFSC in 2013."
+  thumbnailUrl: DaviResner.jpg
+
+-
+  id: 14
+  name: "César"
+  surname: "Huegel Richa"
+  company: "Laboratório de Integração Software/Hardware, UFSC"
+  title: "Mestrando"
+  bio: "Currently, César is an M.Sc student in Computer Science at the Federal
+        University of Santa Catarina (UFSC), and member of the
+        Software/Hardware Integration Lab (LISHA). He received his bachelor's
+        degree in Computer Engineer at the Federal University of Pampa
+        (UNIPAMPA) in 2016."
+  thumbnailUrl: CesarHuegel.jpg
+
+-
+  id: 15
+  name: "Caciano"
+  surname: "Machado"
+  company: "Laboratório  de Integração Software/Hardware, UFSC"
+  title: "Doutorando"
+  bio: "Caciano Machado is a first year Ph.D. student in Computer Science at
+        the Federal University of Santa Catarina (UFSC). Currently, he is
+        member of the Software/Hardware Integration Lab (LISHA) where he
+        studies middleware technologies to enable a reliable Internet of
+        Things. He has a bachelor's and a master's degree in Computer Science
+        from the Federal University of Rio Grande do Sul (UFRGS), and is an
+        Internet Engineering Task Force fellow."
+  thumbnailUrl: CacianoMachado.jpg

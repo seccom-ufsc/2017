@@ -1,3 +1,5 @@
+# Segunda-feira
+
 #-
 #  date: "2017-10-02"
 #  dateReadable: "2 de Outubro"
@@ -19,93 +21,117 @@
 #    	endTime: "11:45",
 #    	sessionIds: [307]
 #    }
-#
-#
-#-
-#  date: "2017-10-03"
-#  dateReadable: "3 de Outubro"
-#  tracks:
-#    - {title: "Atividades", color: "#0a0a55"}
-#  timeslots:
-#    - {
-#        startTime: "10:00",
-#        endTime: "10:45",
-#        sessionIds: [002]
-#    }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [003]
-#    }
-#    - {
-#        startTime: "12:00",
-#        endTime: "11:45",
-#        sessionIds: [307]
-#    }
-#
-#
-#-
-#  date: "2017-10-04"
-#  dateReadable: "4 de Outubro"
-#  tracks:
-#    - {title: "Atividades", color: "#0a0a55"}
-#  timeslots:
-#    - {
-#        startTime: "10:00",
-#        endTime: "10:45",
-#        sessionIds: [002]
-#    }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [003]
-#    }
-#    - {
-#        startTime: "12:00",
-#        endTime: "11:45",
-#        sessionIds: [307]
-#    }
-#
-#
-#-
-#  date: "2017-10-05"
-#  dateReadable: "5 de Outubro"
-#  tracks:
-#    - {title: "Atividades", color: "#0a0a55"}
-#  timeslots:
-#    - {
-#        startTime: "10:00",
-#        endTime: "10:45",
-#        sessionIds: [002]
-#    }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [003]
-#    }
+
+
+# Terça-feira
+-
+  date: "2017-10-03"
+  dateReadable: "3 de Outubro"
+  tracks:
+    - {title: "Atividades", color: "#0a0a55"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [104]
+    }
+    #- {
+    #    startTime: "12:00",
+    #    endTime: "11:45",
+    #    sessionIds: [307]
+    #}
+
+
+# Quarta-feira
+-
+  date: "2017-10-04"
+  dateReadable: "4 de Outubro"
+  tracks:
+    - {title: "Atividades", color: "#0a0a55"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [103]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [104]
+    }
 #    - {
 #        startTime: "12:00",
 #        endTime: "11:45",
 #        sessionIds: [307]
 #    }
-#
-#
-#-
-#  date: "2017-10-06"
-#  dateReadable: "6 de Outubro"
-#  tracks:
-#    - {title: "Atividades", color: "#0a0a55"}
-#  timeslots:
-#    - {
-#        startTime: "10:00",
-#        endTime: "10:45",
-#        sessionIds: [002]
-#    }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [003]
-#    }
+
+
+# Quinta-feira
+-
+  date: "2017-10-05"
+  dateReadable: "5 de Outubro"
+  tracks:
+    - {title: "Atividades", color: "#0a0a55"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [102]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [105]
+    }
+    #- {
+    #    startTime: "11:00",
+    #    endTime: "11:45",
+    #    sessionIds: [003]
+    #}
+    #- {
+    #    startTime: "12:00",
+    #    endTime: "11:45",
+    #    sessionIds: [307]
+    #}
+
+
+# Sexta-feira
+-
+  date: "2017-10-06"
+  dateReadable: "6 de Outubro"
+  tracks:
+    - {title: "Atividades", color: "#0a0a55"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "12:00",
+        sessionIds: [107]
+    }
 #    - {
 #        startTime: "12:00",
 #        endTime: "11:45",
