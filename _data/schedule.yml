@@ -28,6 +28,7 @@
   date: "2017-10-03"
   dateReadable: "3 de Outubro"
   tracks:
+    - {title: "Auditório / Hall", color: "#40409b"}
     - {title: "Minicurso I", color: "#40409b"}
     - {title: "Minicurso II", color: "#5c5cb1"}
     - {title: "Minicurso III", color: "#8484cd"}
@@ -35,12 +36,12 @@
     - {
         startTime: "10:00",
         endTime: "12:00",
-        sessionIds: [101, 103, 104]
+        sessionIds: [404, 101, 103, 104]
     }
     - {
         startTime: "14:20",
         endTime: "15:10",
-        sessionIds: [6]
+        sessionIds: [6, 404, 404, 404]
     }
 
 

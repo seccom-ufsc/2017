@@ -48,7 +48,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Convidados"}
 bottomNavigationLinks:
     # - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
+    - {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Increva-se para um minicurso"}
 rightNavigationButtons:
+    - {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Increva-se para um minicurso"}
     #- {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 # Hero Block
@@ -56,6 +58,7 @@ heroImage: "hero.jpg"
 heroTitle: "SECCOM 2017"
 eventDate: "2 a 6 de Outubro"
 heroButtons:
+    - {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Increva-se para um minicurso"}
     #- {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 
