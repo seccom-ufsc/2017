@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Incrições para Minicursos
+title: Inscrições para Minicursos
 date: 2017-09-22 21:00:00
 isStaticPost: true
 ---
 
-As incrições dos minicursos abrem nessa **Segunda-feira (25/09)** às 8h00! Eles
+As inscrições dos minicursos abrem nessa **Segunda-feira (25/09)** às 8h00! Eles
 irão ocorrer na parte da manhã entre os dias 3 e 6 de Outubro. Teremos no total
 7 minicursos sobre as tecnologias mais atuais, entre eles Python, Docker, IoT e
 muito mais!
