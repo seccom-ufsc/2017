@@ -249,3 +249,26 @@
         from the Federal University of Rio Grande do Sul (UFRGS), and is an
         Internet Engineering Task Force fellow."
   thumbnailUrl: CacianoMachado.jpg
+
+-
+  id: 16
+  name: "Jean"
+  surname: "Everson Martina"
+  company: "Laboratório de Segurança em Computação, UFSC"
+  title: "Professor"
+  bio: "Possui graduação em Ciencias da Computação pela Universidade Federal de
+        Santa Catarina (2001), mestrado em Ciências da Computação pela
+        Universidade Federal de Santa Catarina (2005 ) e doutorado em Ciências
+        da Computação pela Universidade de Cambridge no Reino Unido (2011). É
+        professor do Departamento de Informática e de Estatística da
+        Universidade Federal de Santa Catarina desde 2013 e professor visitante
+        da Universidade de Hertfordshire no Reino Unido desde 2010. Tem
+        experiência na área de Ciência da Computação, com ênfase em
+        Gerenciamento de Certificados Digitais, Protocolos Criptográficos,
+        Sistemas Embarcados, Métodos Formais, e Engenharia de Software voltada
+        a segurança da Informação. Atua principalmente nos seguintes temas:
+        assinaturas digitais, sistemas operacionais embarcados, execução segura
+        de código, proteção de chaves criptográficas,computação forense,
+        formalização de protocolos, verificação formal, modelagem de cerimônias
+        de segurança e projeto de software seguro."
+  thumbnailUrl: JeanMartina.jpg
