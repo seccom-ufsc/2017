@@ -122,6 +122,24 @@
   language: pt-br
   complexity: "Introdutória"
 
+-
+  id: 006
+  title: "Blockchain : Criptomoedas e outras aplicações"
+  description: "Introdução aos conceitos fundamentais atrás dos conceitos de
+                blockchains de distributed ledger. Também vamos ver o que
+                existe de novo e o que é reuso de tecnologias antigas. A
+                palestra vai cobrir as principais criptomoedas e suas
+                estratégias de controle do blockchain, incluindo Proof of Work,
+                Proof of Stake, e Proof of Time. Vamos ver algumas aplicações
+                que estão surgindo hoje e onde estão as oportunidades para se
+                trabalhar com o blockchain.
+
+                Alguns conceitos de segurança serão necessários para entender a
+                fundo."
+  subtype: presentation
+  speakers: [16]
+  language: pt-br
+  complexity: "Intermediária"
 
 -
   id: 101

@@ -37,6 +37,11 @@
         endTime: "12:00",
         sessionIds: [101, 103, 104]
     }
+    - {
+        startTime: "14:20",
+        endTime: "15:10",
+        sessionIds: [6]
+    }
 
 
 # Quarta-feira
