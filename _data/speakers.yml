@@ -272,3 +272,56 @@
         formalização de protocolos, verificação formal, modelagem de cerimônias
         de segurança e projeto de software seguro."
   thumbnailUrl: JeanMartina.jpg
+
+-
+  id: 17
+  name: "Uilian"
+  surname: "de Araújo Ries"
+  company: "Khomp"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor de software, nas tecnologias C/C++ e Python. Formado no
+        curso de análise e desenvolvimento de sistemas pela UNISINOS e técnico
+        em informática industrial pelo SENAI-RS. Possui conhecimento e
+        experiência nas áreas de automação bancária e telecomunicações, tendo
+        desenvolvido diversos projetos para sistemas embarcados em Linux e
+        Windows desktop."
+  thumbnailUrl: UilianRies.jpg
+
+-
+  id: 18
+  name: "Olinto José"
+  surname: "Varela Furtado"
+  company: "Laboratório de Automação de Projeto de Sistemas, UFSC"
+  title: "Professor Titular"
+  bio: "Graduado em Ciências da Computação na Universidade Federal de Santa
+        Catarina em 1980, com mestrado em Engenharia de Sistemas e Computação
+        na Universidade Federal do Rio de Janeiro (UFRJ) em 1984, doutorado em
+        Engenharia Elétrica com foco em Sistemas de Tempo Real também pela UFSC
+        em 1997, Olinto José Varela Furtado é professor titular do Departamento
+        de Informática e Estatística no Centro Tecnológico da UFSC. Foi
+        coordenador do curso de Ciências da Computação no período de 1985 a
+        1989, de Sistemas de Informação no período de 2005 a 2007 e de
+        Especialização em Computação de 1990 a 1992. Foi subcoordenador do
+        curso de Sistemas de informação de 2007 a 2011. Desde 1998, é
+        Coordenador de Informática da COPERVE (UFSC), sendo presidente da
+        COPERVE em 2013 e 2014. Homenageado como patrono, paraninfo e nome de
+        turma de mais de 50 turmas dos cursos de CCO e SIN da UFSC, Olinto
+        segue nas áreas de Linguagens Formais, Teoria da Computação,
+        Compiladores e Sistemas de Tempo Real."
+  thumbnailUrl: OlintoFurtado.jpg
+  social:
+      - {name: "site", link: "http://lattes.cnpq.br/9156645330801555"}
+
+-
+  id: 19
+  name: "Felipe"
+  surname: "Silveira"
+  company: "Khomp"
+  title: ""
+  bio: "Formado em Computação na UFSC, já atuou em aplicações de computação
+        científica (incluindo no L3C-UFSC) e atualmente trabalha com
+        processamento de áudio na Khomp. Tem interesse em C++ e escrever código
+        rápido (e na maioria das vezes correto)."
+  thumbnailUrl: FelipeSilveira.jpg
+  social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/felipessilveira/"}

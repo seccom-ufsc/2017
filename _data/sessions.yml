@@ -1,9 +1,9 @@
 -
-  id: 301
+  id: cafe
   title: "Coffee Break"
   place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
+
 -
   id: 001
   title: "iGEM - Engenheirando o futuro"
@@ -142,6 +142,28 @@
   complexity: "Intermediária"
 
 -
+  id: 007
+  title: "O Curso de Ciências da Computação da UFSC: Uma retrospectiva dos 40
+          anos do curso sob o olhar de um egresso da primeira turma e professor
+          do curso há 35 anos."
+  description: ""
+  speakers: [18]
+  language: pt-br
+  complexity: "Introdutória"
+
+- id: 008
+  title: "Como não escrever código de alta performance"
+  description: "Ao começar a programar descobrimos que não existe um único
+                jeito certo de se resolver um problema, mas existem vários
+                jeitos errados.  Essa palestra mostrará alguns erros
+                encontrados em códigos em que a performance é crítica e tentará
+                tirar  concepções erradas sobre alguns conceitos."
+  speakers: [19]
+  language: pt-br
+  complexity: "Introdutória"
+
+
+-
   id: 101
   title: "Minicurso: Versionamento de código com Git e Github"
   description: "<p>Produzir software nunca foi uma tarefa fácil, pois à medida
@@ -249,8 +271,21 @@
                 Esta oficina visa apresentar o conceito do projeto Conan e o
                 seu uso dentro da Khomp,  exercitar o uso da ferramenta durante
                 o minicurso.
+
+                <h7><b>Ementa:</b></h7>
+                <li>Desenvolvimento de software nas linguagens C/C++ e
+                    Python;</li>
+                <li>Empacotamento, versionamento e distribuição de
+                    artefatos;</li>
+                <li>Automatização de construção para projetos;</li>
+                <li>Resolução de dependências entre projetos;</li>
+                <li>Conceitos de Integração contínua.</li>
+
+                <h7><b>Pré-requisitos:</b></h7>
+                <li>Linguagens de programação C/C++ e Python (básico);</li>
+                <li>CMake script (básico).</li>
                 </p>"
-  speakers: []
+  speakers: [17]
   subtype: workshop
   language: pt-br
 
@@ -308,3 +343,55 @@
   speakers: [1, 4, 5, 8]
   subtype: presentation
   language: pt-br
+
+
+#------------------------------------------------------------------------------
+# Palestras empresariais
+#
+# IDs: 3xx
+#------------------------------------------------------------------------------
+-
+  id: 301
+  title: "Khomp"
+  description: "A Khomp é uma empresa brasileira, com sede em Santa Catarina,
+                que fornece tecnologia de ponta para o desenvolvimento de
+                soluções de convergência entre computador e telefonia, nos
+                cenários mais exigentes em confiabilidade e alto desempenho. Os
+                produtos Khomp são desenvolvidos por uma equipe de
+                profissionais altamente qualificada, que também acompanha o
+                desenvolvimento de seus parceiros e clientes e, com eles, cria
+                novas soluções para o crescimento de ambos.
+
+                Consolidada no mercado nacional, a Khomp iniciou sua escala
+                internacional e hoje possui escritórios regionais nas cidades
+                de Buenos Aires, na Argentina; Medellin, na Colômbia; Cidade do
+                México, no México; e Miami, na Flórida.
+
+                Dedicada no desenvolvimento de produtos sempre inovadores, a
+                Khomp apresenta um portfólio completo para os mercados de
+                Operadoras de Telefonia, Call Centers, Integradores de Soluções
+                de Telefonia, e, mais recentemente, incluindo equipamentos para
+                Segurança, Automação e Controle de Acesso para atender a
+                Pequenas Empresas e Condomínios Comerciais e Residenciais."
+  speakers: []
+  subtype: presentation
+  language: pt-br
+-
+  id: 302
+  title: "Softplan"
+  description: "A Softplan é uma das maiores empresas do Brasil no
+                desenvolvimento de softwares de gestão. Atualmente suas
+                soluções estão presentes em todos os estados brasileiros, em
+                países da América Latina e nos Estados Unidos, fazendo a
+                diferença na vida das pessoas. Desde 1990, a companhia atua de
+                modo a tornar a gestão pública e privada no Brasil mais
+                transparente, eficiente e ágil com o uso de tecnologias
+                modernas e inovadoras. Ao longo desses anos, a Softplan se
+                especializou no desenvolvimento e na implantação de softwares
+                de gestão para os segmentos de Justiça, Infraestrutura e Obras,
+                Gestão Pública, Projetos Cofinanciados por Organismos
+                Internacionais e Indústria da Construção."
+  speakers: []
+  subtype: presentation
+  language: pt-br
+

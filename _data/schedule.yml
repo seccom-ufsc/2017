@@ -1,92 +1,158 @@
 # Segunda-feira
-
-#-
-#  date: "2017-10-02"
-#  dateReadable: "2 de Outubro"
-#  tracks:
-#    - {title: "Minicurso I", color: "#0a0a55"}
-#  timeslots:
-#    - {
-#    	startTime: "10:00",
-#    	endTime: "10:45",
-#    	sessionIds: [002]
-#    }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [003]
-#    }
-#    - {
-#    	startTime: "12:00",
-#    	endTime: "11:45",
-#    	sessionIds: [307]
-#    }
+-
+  date: "2017-10-02"
+  dateReadable: "2 de Outubro"
+  categories:
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "14:30",
+                endTime: "15:20",
+                sessionIds: [003]
+            }
+            - {
+                startTime: "16:10",
+                endTime: "16:40",
+                sessionIds: [cafe]
+            }
+            - {
+                startTime: "16:40",
+                endTime: "17:30",
+                sessionIds: [005]
+            }
 
 
 # Terça-feira
 -
   date: "2017-10-03"
   dateReadable: "3 de Outubro"
-  tracks:
-    - {title: "Auditório / Hall", color: "#40409b"}
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-    - {title: "Minicurso III", color: "#8484cd"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [404, 101, 103, 104]
-    }
-    - {
-        startTime: "14:20",
-        endTime: "15:10",
-        sessionIds: [6, 404, 404, 404]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+            - {title: "Minicurso I", color: "#40409b"}
+            - {title: "Minicurso II", color: "#5c5cb1"}
+            - {title: "Minicurso III", color: "#8484cd"}
+        timeslots:
+            - {
+                startTime: "10:00",
+                endTime: "12:00",
+                sessionIds: [101, 103, 104]
+            }
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "14:20",
+                sessionIds: [4]
+            }
+            - {
+                startTime: "14:20",
+                endTime: "15:10",
+                sessionIds: [6]
+            }
+            - {
+                startTime: "15:10",
+                endTime: "16:00",
+                sessionIds: [2]
+            }
+            - {
+                startTime: "16:00",
+                endTime: "16:30",
+                sessionIds: [cafe]
+            }
+
 
 
 # Quarta-feira
 -
   date: "2017-10-04"
   dateReadable: "4 de Outubro"
-  tracks:
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-    - {title: "Minicurso III", color: "#8484cd"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [101, 103, 104]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+            - {title: "Minicurso I", color: "#40409b"}
+            - {title: "Minicurso II", color: "#5c5cb1"}
+            - {title: "Minicurso III", color: "#8484cd"}
+        timeslots:
+            - {
+                startTime: "10:00",
+                endTime: "12:00",
+                sessionIds: [101, 103, 104]
+            }
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "14:20",
+                sessionIds: [1]
+            }
+            - {
+                startTime: "16:00",
+                endTime: "16:30",
+                sessionIds: [cafe]
+            }
 
 
 # Quinta-feira
 -
   date: "2017-10-05"
   dateReadable: "5 de Outubro"
-  tracks:
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-    - {title: "Minicurso III", color: "#8484cd"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [106, 102, 105]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+          - {title: "Minicurso I", color: "#40409b"}
+          - {title: "Minicurso II", color: "#5c5cb1"}
+          - {title: "Minicurso III", color: "#8484cd"}
+        timeslots:
+          - {
+              startTime: "10:00",
+              endTime: "12:00",
+              sessionIds: [106, 102, 105]
+          }
+      - title: "Feira Empresarial"
+        tracks:
+            - {title: "Palestras Empresariais", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "14:10",
+                endTime: "14:50",
+                sessionIds: [302],
+            }
+            - {
+                startTime: "14:50",
+                endTime: "15:30",
+                sessionIds: [301],
+            }
+            - {
+                startTime: "16:50",
+                endTime: "17:20",
+                sessionIds: [cafe]
+            }
 
 
 # Sexta-feira
 -
   date: "2017-10-06"
   dateReadable: "6 de Outubro"
-  tracks:
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [106, 107]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+            - {title: "Minicurso I", color: "#40409b"}
+            - {title: "Minicurso II", color: "#5c5cb1"}
+        timeslots:
+            - {
+                startTime: "10:00",
+                endTime: "12:00",
+                sessionIds: [106, 107]
+            }
+            - {
+                startTime: "15:30",
+                endTime: "16:00",
+                sessionIds: [cafe]
+            }
