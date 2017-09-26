@@ -239,21 +239,29 @@
   id: 105
   title: "Minicurso: Conan, o gerente de pacotes para C e C++"
   description: "<p>
-                Assim como Maven está para Java e pip está para Python. Conan
-                está para C/C++. Este moderno  gerenciador de pacotes de
+                Assim como Maven está para Java e pip está para Python, Conan
+                está para C/C++. Este moderno gerenciador de pacotes e
                 dependências para C/C++, foi escrito em python e está sob a
-                licença MIT.  Para aquelas dependências externas que são
-                copiadas localmente para serem construídas com um determinado
-                projeto, Conan provê a solução de resolver este acoplamento de
-                forma dinâmica e inteligente.
-                Esta oficina visa apresentar o conceito do projeto Conan e o
-                seu uso dentro da Khomp,  exercitar o uso da ferramenta durante
-                o minicurso.
-                </p>"
-  speakers: []
+                licença MIT. Para projetos que utilizam dependências externas
+                ou possuem uma tarefa complexa de construção, Conan provê a
+                solução para acoplamento e estruturação de forma dinâmica e
+                inteligente.
+
+                Esta oficina irá apresentar o conceito do projeto Conan e o
+                seu uso dentro da Khomp, além de exercitar o uso da
+                ferramenta durante o minicurso.
+                </p>
+
+                <p><b>Ementa:</b>
+                <li>Programação de uma receita em Python utilizando a ferramenta Conan</li>
+                <li>Apresentação e uso do projeto Conan</li>
+                <li>Empacotamento, versionamento e distribuição de artefatos</li></p>
+
+                <p><h7><b>Pré-requisitos:</b></h7>
+                <li>Conhecimento básico de C++ e Python</li></p>"
+  speakers: [17]
   subtype: workshop
   language: pt-br
-
 -
   id: 106
   title: "Minicurso: A linguagem de programação Python"
