@@ -1,7 +1,7 @@
 $speaker-image-size: 40px;
 $schedule-border: 1px solid #e7e7e7;
 $title-font-size: 25px;
-$small-label-width: 80px;
+$small-label-width: 120px;
 $label-width: 150px;
 $large-label-width: 225px;
 
@@ -18,7 +18,7 @@ $large-label-width: 225px;
 /**
  * General;
  */
- .schedule {
+.schedule {
     ul {
         list-style: none;
         padding: 0;
@@ -98,10 +98,6 @@ $large-label-width: 225px;
         }
     }
 }
-
-.track-header-label.large {
-    width: $large-label-width
-}
 .timeslot-label {
     @extend .track-header-label;
     position: relative;
@@ -112,8 +108,21 @@ $large-label-width: 225px;
     font-weight: $light;
     @media (max-width: 767px) {
         font-size: 28px;
+        .large {
+            width: $label-width;
+            min-height: 40px;
+        }
     }
 }
+
+.track-header-label.large {
+    width: $large-label-width;
+    @media (max-width: 767px) {
+        font-size: 18px;
+        width: $label-width;
+    }
+}
+
 .time-element {
     position: relative;
     height: 100%;
@@ -125,11 +134,25 @@ $large-label-width: 225px;
     @media (max-width: 767px) {
         display: block;
         margin-left: $small-label-width;
+        .large {
+            margin-left: $label-width !important;
+            min-height: 40px;
+        }
     }
 }
 .timeslot-elements.large {
     margin-left: $large-label-width;
+    @media (max-width: 767px) {
+        display: block;
+    }
 }
+
+.timeslot-elements.large .slot {
+    @media (max-width: 767px) {
+        min-height: 40px;
+    }
+}
+
 .slot-title {
     font-size: 22px;
     font-weight: $regular;
