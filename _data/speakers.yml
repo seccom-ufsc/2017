@@ -325,3 +325,20 @@
   thumbnailUrl: FelipeSilveira.jpg
   social:
       - {name: "linkedin", link: "https://www.linkedin.com/in/felipessilveira/"}
+
+- id: 20
+  name: "Eduardo"
+  surname: "Inacio Duzzioni"
+  company: "GIQSul - Grupo de Informação Quântica da Sul"
+  title: "Professor Associado I"
+  bio: "Possui graduação em Física Bacharelado pela Universidade Federal de
+        Santa Catarina (2001), mestrado em Física pela Universidade Federal de
+        Santa Catarina (2003), doutorado pela Universidade Federal de São
+        Carlos (2007) e pós-doutorado pela Universidade Federal do ABC
+        (2007-2008). Tem experiência na área de Física, com ênfase em Física
+        Quântica; atuando principalmente nos seguintes temas: óptica quântica e
+        informação quântica. Atualmente é professor Associado I no Departamento
+        de Física da Universidade Federal de Santa Catarina e vice-coordenador
+        do Programa de Pós-graduação em Física."
+  thumbnailUrl: EduardoDuzzioni.jpg
+
