@@ -8,6 +8,11 @@
             - {title: "Auditório / Hall", color: "#40409b"}
         timeslots:
             - {
+                startTime: "13:40",
+                endTime: "14:20",
+                sessionIds: [007]
+            }
+            - {
                 startTime: "14:30",
                 endTime: "15:20",
                 sessionIds: [003]
