@@ -396,3 +396,51 @@
     - {name: "site", link: "http://tech.nandosousa.com/"}
     - {name: "github", link: "https://github.com/nandosousafr"}
     - {name: "twitter", link: "https://twitter.com/nandosousafr"}
+
+- id: 25
+  name: "Ana Paula"
+  surname: "Soares"
+  company: "Softplan"
+  title: "Agile Coach"
+  bio: "Ana Paula Soares atua na área de projetos de software há mais de 10
+        anos. Agilista desde 2011, é bacharel em Ciência da Computação, com MBA
+        em Gestão de Projetos. Possui certificações de Scrum Master, SAFe
+        Agilist e Kanban Management Professional. Atualmente é Agile Coach na
+        Softplan atuando diretamente na transformação Lean-Agile."
+  thumbnailUrl: AnaPaula.jpg
+
+- id: 26
+  name: "Fábio"
+  surname: "Trierveiler"
+  company: "Softplan"
+  title: "Agile Coach"
+  bio: "Especialista em Engenharia de Projetos de Software (UNISUL) e em
+        Qualidade e Engenharia de Software (UNIVALI), Bacharel em Sistemas de
+        Informação (UFSC), Técnico em Eletrônica (CEFET/SC), atua com
+        desenvolvimento ágil de software desde 2008. Trabalhou como
+        desenvolvedor PL/SQL para a Bunge Alimentos, QA de software mobile com
+        contatos frequentes com Microsoft, Motorola e VIVO, testes em Delphi e
+        qualidade e processos. Atualmente atua em agile coaching e nas melhorias
+        dos métodos de trabalho voltado principalmente aos processos técnicos
+        (manutenção evolutiva e corretiva), engenharia de software, indicadores,
+        capacitação contínua, com ênfase nas boas práticas do mundo de
+        desenvolvimento ágil de software."
+  thumbnailUrl: FabioTrierveiler.jpg
+
+- id: 27
+  name: "Guilherme"
+  surname: "Camargo Tossulino"
+  company: "Softplan"
+  title: "Gerente de Inovação e Novos Negócios"
+  bio: "Formado em Ciência da Computação pela UNISUL e Pós-Graduado em
+        Gerenciamento de Projetos pela FGV. Atua desde 2001 na área de
+        tecnologia da informação em empresas de desenvolvimento de software e
+        outsourcing de serviços. Especialização em Gerenciamento de Projetos,
+        atuou como GP em projetos com equipes multidisciplinares com escopos
+        distintos como desenvolvimento de portais, sites, implantação e
+        desenvolvimento cursos à distância e softwares. Desde 2016 atua como
+        Gerente de Inovação e Novos Negócios na Softplan, conduzindo as
+        iniciativas da Unidade de Gestão Pública. Entre os principais desafios
+        estão a formação e estruturação da área com processos, pessoas,
+        indicadores e estratégias de inovação."
+  thumbnailUrl: GuilhermeCamargo.jpg

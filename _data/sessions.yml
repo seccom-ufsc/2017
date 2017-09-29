@@ -236,6 +236,13 @@
   language: pt-br
   complexity: "Introdutória"
 
+- id: 014
+  title: "Agilidade na Prática"
+  description: ""
+  speakers: [25, 26]
+  language: pt-br
+  complexity: "Introdutória"
+
 #------------------------------------------------------------------------------
 # Minicursos
 #
@@ -376,8 +383,7 @@
   subtype: workshop
   language: pt-br
 
--
-  id: 107
+- id: 107
   title: "Minicurso: Programando uma IoT confiável: a API Smart Data"
   description: "<p>
                 A Internet das Coisas (IoT) é uma tecnologia emergente com o
@@ -435,6 +441,14 @@
 - id: 203
   title: "Exposição de empresas"
   description: "Uma tarde dedicada ao mercado de trabalho."
+
+- id: 204
+  title: "Inovação é resolver problemas reais!"
+  description: "<p><li>Como a Softplan está desenvolvendo novos produtos e serviços</li>
+                <li>Lean Startup (Testar, Medir, Aprender)</li>
+                <li>Design Thinking</li>
+                <li>Desenvolvimento de clientes para novos produtos</li></p>"
+  speakers: [27]
 
 #------------------------------------------------------------------------------
 # Palestras empresariais
