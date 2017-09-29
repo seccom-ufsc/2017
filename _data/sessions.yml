@@ -1,8 +1,18 @@
 -
+  id: abre
+  title: "Abertura do evento"
+  place: "Auditório"
+
+-
+  id: fecha
+  title: "Sorteio do Pinebook e encerramento do evento"
+  place: "Auditório"
+
+
+-
   id: cafe
   title: "Coffee Break"
   place: "Hall"
-  description: ""
 
 -
   id: 001
@@ -151,7 +161,8 @@
   language: pt-br
   complexity: "Introdutória"
 
-- id: 008
+-
+  id: 009
   title: "Como não escrever código de alta performance"
   description: "Ao começar a programar descobrimos que não existe um único
                 jeito certo de se resolver um problema, mas existem vários
@@ -162,7 +173,74 @@
   language: pt-br
   complexity: "Introdutória"
 
+-
+  id: 010
+  title: "Arquiteturas de Serviços Altamente Escaláveis"
+  description: "Uma exposição introdutória aos conceitos e preocupações que se
+                deve ter ao criar APIs que serão consumidas em alta escala, e
+                têm que atender estritas restrições de latência e downtime."
+  speakers: [21, 22]
+  language: pt-br
+  complexity: "Intermediária"
 
+- id: 011
+  title: "Machine Learning e Big Data em Termos Leigos"
+  description: "Nesta apresentação tentaremos dar um norte para o pessoal que
+                gostaria de se aprofundar na área de analise de dados,
+                fundamentando e discorrendo sobre alguns dos tópicos que
+                participam da extração de insights de dados em escala, e pondo
+                tudo em prática no final ao resolver um problema de mundo real."
+  speakers: [23]
+  language: pt-br
+  complexity: "Introdutória"
+
+- id: 012
+  title: "Should I stay or should I Go - um overview da linguagem Go"
+  description: "<p>Existem milhares de linguagens por aí, e a cada dia que passa
+                outras dezenas surgem. Nessa talk iremos explorar os benefícios
+                e filosofias da linguagem criada pelo Google.</p>
+                <p>Golang surgiu em meados de 2009, desde então tem sido adotada
+                por grandes empresas e startups do Vale para escrever software
+                concorrente e manutenível.</p>
+                <p>Go tem ideias interessantes que fazem sentido na hora, e
+                outras que demoram para encaixar. Iremos explorar uma-a-uma
+                dessas características:
+                <li>Don’t communicate by sharing memory, share memory by communicating;</li>
+                <li>Concurrency is not parallelism;</li>
+                <li>Clear is better than clever;</li>
+                <li>Interfaces;</li>
+                <li>Error are values;</li></p>"
+  speakers: [24]
+  language: pt-br
+  complexity: "Introdutória"
+
+- id: 013
+  title: "Uma introdução à Computação Quântica"
+  description: "Atualmente somos extremamente dependentes da tecnologia, em
+                particular, dos computadores, sejam os nossos laptops ou os
+                supercomputadores. Apesar destes serem constituídos por
+                dispositivos eletrônicos que só existiram a partir dos avanços
+                da Mecânica Quântica, tais computadores ainda são chamados de
+                computadores clássicos. Nesta palestra, serão apresentadas as
+                diferenças entre os computadores clássicos e os computadores
+                quânticos, sendo estes últimos baseados em uma lógica que
+                depende da natureza quântica. Embora ainda em um estágio
+                inicial, a corrida tecnológica pela construção de um computador
+                quântico que apresente vantagens de processamento sobre os
+                computadores atuais está a todo vapor, uma vez que os
+                computadores quânticos prometem resolver de maneira eficiente
+                problemas intratáveis aos computadores clássicos. Alguns desses
+                problemas serão abordados e as perspectivas para a área serão
+                apresentadas."
+  speakers: [20]
+  language: pt-br
+  complexity: "Introdutória"
+
+#------------------------------------------------------------------------------
+# Minicursos
+#
+# IDs: 1xx
+#------------------------------------------------------------------------------
 -
   id: 101
   title: "Minicurso: Versionamento de código com Git e Github"
@@ -336,22 +414,38 @@
   subtype: workshop
   language: pt-br
 
--
-  id: 201
+#------------------------------------------------------------------------------
+# Eventos Especiais
+#
+# IDs: 2xx
+#------------------------------------------------------------------------------
+
+- id: 201
   title: "Mesa Redonda: Caminhos após a graduação"
   description: ""
   speakers: [1, 4, 5, 8]
   subtype: presentation
   language: pt-br
 
+- id: 202
+  title: "Feira de laboratórios"
+  description: "Venha conhecer os laboratórios de pesquisa do Departamento de
+                Informática e Estatística da UFSC."
+
+- id: 203
+  title: "Exposição de empresas"
+  description: "Uma tarde dedicada ao mercado de trabalho."
 
 #------------------------------------------------------------------------------
 # Palestras empresariais
 #
 # IDs: 3xx
 #------------------------------------------------------------------------------
--
-  id: 301
+- id: 301
+  title: "Resultados Digitais"
+  description: ""
+
+- id: 302
   title: "Khomp"
   description: "A Khomp é uma empresa brasileira, com sede em Santa Catarina,
                 que fornece tecnologia de ponta para o desenvolvimento de
@@ -373,11 +467,7 @@
                 de Telefonia, e, mais recentemente, incluindo equipamentos para
                 Segurança, Automação e Controle de Acesso para atender a
                 Pequenas Empresas e Condomínios Comerciais e Residenciais."
-  speakers: []
-  subtype: presentation
-  language: pt-br
--
-  id: 302
+- id: 303
   title: "Softplan"
   description: "A Softplan é uma das maiores empresas do Brasil no
                 desenvolvimento de softwares de gestão. Atualmente suas
@@ -391,7 +481,11 @@
                 de gestão para os segmentos de Justiça, Infraestrutura e Obras,
                 Gestão Pública, Projetos Cofinanciados por Organismos
                 Internacionais e Indústria da Construção."
-  speakers: []
-  subtype: presentation
-  language: pt-br
 
+- id: 304
+  title: "Bridge"
+  description: ""
+
+- id: 305
+  title: "Safeweb"
+  description: ""

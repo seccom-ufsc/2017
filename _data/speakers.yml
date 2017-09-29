@@ -312,8 +312,7 @@
   social:
       - {name: "site", link: "http://lattes.cnpq.br/9156645330801555"}
 
--
-  id: 19
+- id: 19
   name: "Felipe"
   surname: "Silveira"
   company: "Khomp"
@@ -342,3 +341,57 @@
         do Programa de Pós-graduação em Física."
   thumbnailUrl: EduardoDuzzioni.jpg
 
+- id: 21
+  name: "Flavio"
+  surname: "Santos"
+  company: "LINX+Neemu+Chaordic"
+  title: "Líder Técnico do time da plataforma de dados"
+  bio: "Flávio atua no time da plataforma de dados da LINX+Neemu+Chaordic,
+        empresa especializada em servir recomendações para soluções e sites de
+        e-commerce. Doutor pela UFRGS e graduado em Ciência da Computação pela
+        UFCG. Tem experiência profissional em Hadoop, Hive, Spark e Cassandra e
+        lida diariamente com tecnologias que atendem dezenas de milhares de
+        requisições por minuto, como Kafka, Akka, Redis, Elasticsearch e Mongo."
+  thumbnailUrl: FlavioSantos.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fsantos"}
+
+- id: 22
+  name: "Vitor"
+  surname: "Avancini"
+  company: "LINX+Neemu+Chaordic"
+  title: "Desenvolvedor em Big Data"
+  bio: "Vitor faz parte do time da plataforma de dados da LINX+Neemu+Chaordic.
+        Formado em Sistemas de Informação pela UFSC, liderou a implantação da
+        infraestrutura de microservices hoje utilizada pela empresa. Em estudos
+        na Austrália, pesquisou e aplicou técnicas de computação distribuída e
+        machine learning. Possui experiência com Ruby, Python, Java, Docker,
+        Mesos e Marathon."
+  thumbnailUrl: VitorAvancini.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vitor-avancini-35bb1367"}
+
+- id: 23
+  name: "Luiz"
+  surname: "Berti"
+  company: "LINX+Neemu+Chaordic"
+  title: "Membro da equipe de Data Science"
+  bio: "Graduando em Ciência da Computação na UFSC e membro da equipe de Data
+        Science da Linx+Neemu+Chaordic, atualmente trabalhando no cálculo de
+        projeções econômicas e predição comportamental de usuários. Usuário de
+        longa data de Python, obcecado por otimizações, amante de estruturas de
+        dados esotéricas."
+
+- id: 24
+  name: "Nando"
+  surname: "Sousa"
+  company: "Resultados Digitais"
+  title: "Software Developer"
+  bio: "Eu sou Software Developer na Resultados Digitais. Adicionalmente,
+        co-fundei alguns grupos de meetup, incluindo: FloripaOnRails, Floripa
+        Gophers and Elixir |> SC."
+  thumbnailUrl: NandoSousa.jpg
+  social:
+    - {name: "site", link: "http://tech.nandosousa.com/"}
+    - {name: "github", link: "https://github.com/nandosousafr"}
+    - {name: "twitter", link: "https://twitter.com/nandosousafr"}

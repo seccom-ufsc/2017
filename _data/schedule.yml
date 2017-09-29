@@ -8,17 +8,27 @@
             - {title: "Auditório / Hall", color: "#40409b"}
         timeslots:
             - {
-                startTime: "13:40",
+                startTime: "13:00",
+                endTime: "13:30",
+                sessionIds: [abre]
+            }
+            - {
+                startTime: "13:30",
                 endTime: "14:20",
                 sessionIds: [007]
             }
             - {
-                startTime: "14:30",
-                endTime: "15:20",
+                startTime: "14:20",
+                endTime: "15:10",
                 sessionIds: [003]
             }
             - {
-                startTime: "16:10",
+                startTime: "15:10",
+                endTime: "16:00",
+                sessionIds: [010]
+            }
+            - {
+                startTime: "16:00",
                 endTime: "16:40",
                 sessionIds: [cafe]
             }
@@ -27,7 +37,11 @@
                 endTime: "17:30",
                 sessionIds: [005]
             }
-
+            - {
+                startTime: "17:30",
+                endTime: "18:20",
+                sessionIds: [012]
+            }
 
 # Terça-feira
 -
@@ -38,7 +52,7 @@
         tracks:
             - {title: "Minicurso I", color: "#40409b"}
             - {title: "Minicurso II", color: "#5c5cb1"}
-            - {title: "Minicurso III", color: "#8484cd"}
+            - {title: "Minicurso III", color: "#8484cc"}
         timeslots:
             - {
                 startTime: "10:00",
@@ -69,6 +83,11 @@
                 endTime: "16:30",
                 sessionIds: [cafe]
             }
+            - {
+                startTime: "16:30",
+                endTime: "18:00",
+                sessionIds: [202]
+            }
 
 
 
@@ -98,9 +117,14 @@
                 sessionIds: [001]
             }
             - {
+                startTime: "14:20",
+                endTime: "15:10",
+                sessionIds: [009]
+            }
+            - {
                 startTime: "15:10",
                 endTime: "16:00",
-                sessionIds: [008]
+                sessionIds: [013]
             }
             - {
                 startTime: "16:00",
@@ -127,17 +151,38 @@
           }
       - title: "Feira Empresarial"
         tracks:
+            - {title: "Hall", color: "#40409b"}
             - {title: "Palestras Empresariais", color: "#40409b"}
         timeslots:
             - {
+                startTime: "13:30",
+                endTime: "18:00",
+                sessionIds: [203, 404],
+            }
+            - {
+                startTime: "13:30",
+                endTime: "14:10",
+                sessionIds: [404, 301],
+            }
+            - {
                 startTime: "14:10",
                 endTime: "14:50",
-                sessionIds: [302],
+                sessionIds: [404, 302],
             }
             - {
                 startTime: "14:50",
                 endTime: "15:30",
-                sessionIds: [301],
+                sessionIds: [404, 303],
+            }
+            - {
+                startTime: "15:30",
+                endTime: "16:10",
+                sessionIds: [404, 304],
+            }
+            - {
+                startTime: "16:10",
+                endTime: "16:50",
+                sessionIds: [404, 305],
             }
             - {
                 startTime: "16:50",
@@ -161,8 +206,27 @@
                 endTime: "12:00",
                 sessionIds: [106, 107]
             }
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "14:30",
+                sessionIds: [011]
+            }
             - {
                 startTime: "15:30",
                 endTime: "16:00",
                 sessionIds: [cafe]
+            }
+            - {
+                startTime: "17:00",
+                endTime: "18:30",
+                sessionIds: [201]
+            }
+            - {
+                startTime: "18:30",
+                endTime: "19:00",
+                sessionIds: [fecha]
             }
