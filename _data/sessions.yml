@@ -238,8 +238,16 @@
 
 - id: 014
   title: "Agilidade na Prática"
-  description: ""
-  speakers: [25, 26]
+  description: "Sabemos todos que a filosofia ágil tem em seu alicerce a
+                mudança cultural: sem que esta ocorra, as práticas,
+                metodologias e ferramentas tendem ao fracasso. Tentar modificar
+                a cultura de uma instituição é sempre um desafio, ainda mais em
+                uma empresa que possui 26 anos. Nesta palestra, será
+                apresentado um overview da história da Softplan, os desafios de
+                ter escalado ágil, como estamos entregando software em um
+                momento tão desafiador e competitivo e o que esperamos para o
+                futuro"
+  speakers: [25, 26, 27]
   language: pt-br
   complexity: "Introdutória"
 
