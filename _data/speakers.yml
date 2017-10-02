@@ -181,18 +181,34 @@
         tecnologias do mundo web desde então. Entusiasta do open source,
         acredita que o javascript ainda dominará o mundo."
   thumbnailUrl: CarlosBonetti.jpg
+
 -
   id: 11
-  name: "Felipe"
-  surname: "Simeão Taboada"
+  name: "Antonio Marco"
+  surname: "Da Costa Taha"
   company: "Laboratório Bridge"
-  title: "Arquiteto de Sistemas"
-  bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
-        há quase 7 anos com desevolvimento de software, desde 2013 no
-        Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
-        e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
-        nacional de implantes)"
-  thumbnailUrl: FelipeTaboada.jpg
+  title: "Desenvolvedor Full-Stack"
+  bio: "Graduando em Sistemas de Informação pela Universidade Federal de Santa
+        Catarina. Trabalha no Laboratório Bridge desde 2014. Já desempenhou a
+        função de tester e atualmente trabalha como Full-stack. No Bridge
+        esteve presente no projeto e-SUS AB e atualmente trabalha no RNI
+        (Registro Nacional de Implantes). Motivador e explorador de novas
+        tecnologias de front-end, principalmente envolvendo javascript."
+  thumbnailUrl: AntonioTaha.jpg
+
+#-
+#  id: 11
+#  name: "Felipe"
+#  surname: "Simeão Taboada"
+#  company: "Laboratório Bridge"
+#  title: "Arquiteto de Sistemas"
+#  bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
+#        há quase 7 anos com desevolvimento de software, desde 2013 no
+#        Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
+#        e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
+#        nacional de implantes)"
+#  thumbnailUrl: FelipeTaboada.jpg
+
 -
   id: 12
   name: "Tarcísio Eduardo"

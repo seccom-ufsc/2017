@@ -50,9 +50,9 @@
   categories:
       - title: "Minicursos"
         tracks:
-            - {title: "Minicurso I", color: "#40409b"}
-            - {title: "Minicurso II", color: "#5c5cb1"}
-            - {title: "Minicurso III", color: "#8484cc"}
+            - {title: "Minicurso I - INE 314", color: "#40409b"}
+            - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
+            - {title: "Minicurso III - INE 101", color: "#8484cc"}
         timeslots:
             - {
                 startTime: "10:00",
@@ -98,9 +98,9 @@
   categories:
       - title: "Minicursos"
         tracks:
-            - {title: "Minicurso I", color: "#40409b"}
-            - {title: "Minicurso II", color: "#5c5cb1"}
-            - {title: "Minicurso III", color: "#8484cd"}
+            - {title: "Minicurso I - INE 314", color: "#40409b"}
+            - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
+            - {title: "Minicurso III - LIICT 9", color: "#8484cd"}
         timeslots:
             - {
                 startTime: "10:00",
@@ -145,9 +145,9 @@
   categories:
       - title: "Minicursos"
         tracks:
-          - {title: "Minicurso I", color: "#40409b"}
-          - {title: "Minicurso II", color: "#5c5cb1"}
-          - {title: "Minicurso III", color: "#8484cd"}
+          - {title: "Minicurso I - INE 313", color: "#40409b"}
+          - {title: "Minicurso II - LIICT 8", color: "#5c5cb1"}
+          - {title: "Minicurso III - LIICT 2", color: "#8484cd"}
         timeslots:
           - {
               startTime: "10:00",
@@ -203,8 +203,8 @@
   categories:
       - title: "Minicursos"
         tracks:
-            - {title: "Minicurso I", color: "#40409b"}
-            - {title: "Minicurso II", color: "#5c5cb1"}
+            - {title: "Minicurso I - INE 313", color: "#40409b"}
+            - {title: "Minicurso II - INE 314", color: "#5c5cb1"}
         timeslots:
             - {
                 startTime: "10:00",
