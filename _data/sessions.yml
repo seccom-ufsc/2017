@@ -443,8 +443,11 @@
 
 - id: 202
   title: "Feira de laboratórios"
-  description: "Venha conhecer os laboratórios de pesquisa do Departamento de
-                Informática e Estatística da UFSC."
+  description: "A Feira de Laboratórios é um espaço reservado para os
+                participantes do evento conhecerem um pouco sobre os
+                laboratório do INE e seus projetos de pesquisa. Venha conhecer
+                os laboratórios de pesquisa do Departamento de Informática e
+                Estatística da UFSC!"
 
 - id: 203
   title: "Exposição de empresas"
