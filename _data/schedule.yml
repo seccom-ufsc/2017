@@ -1,47 +1,47 @@
 # Segunda-feira
--
-  date: "2017-10-02"
-  dateReadable: "2 de Outubro"
-  categories:
-      - title: "Palestras"
-        tracks:
-            - {title: "Auditório / Hall", color: "#40409b"}
-        timeslots:
-            - {
-                startTime: "13:00",
-                endTime: "13:30",
-                sessionIds: [abre]
-            }
-            - {
-                startTime: "13:30",
-                endTime: "14:20",
-                sessionIds: [007]
-            }
-            - {
-                startTime: "14:20",
-                endTime: "15:10",
-                sessionIds: [006]
-            }
-            - {
-                startTime: "15:10",
-                endTime: "16:00",
-                sessionIds: [010]
-            }
-            - {
-                startTime: "16:00",
-                endTime: "16:30",
-                sessionIds: [cafe]
-            }
-            - {
-                startTime: "16:30",
-                endTime: "17:20",
-                sessionIds: [005]
-            }
-            - {
-                startTime: "17:20",
-                endTime: "18:10",
-                sessionIds: [012]
-            }
+# -
+#   date: "2017-10-02"
+#   dateReadable: "2 de Outubro"
+#   categories:
+#       - title: "Palestras"
+#         tracks:
+#             - {title: "Auditório / Hall", color: "#40409b"}
+#         timeslots:
+#             - {
+#                 startTime: "13:00",
+#                 endTime: "13:30",
+#                 sessionIds: [abre]
+#             }
+#             - {
+#                 startTime: "13:30",
+#                 endTime: "14:20",
+#                 sessionIds: [007]
+#             }
+#             - {
+#                 startTime: "14:20",
+#                 endTime: "15:10",
+#                 sessionIds: [006]
+#             }
+#             - {
+#                 startTime: "15:10",
+#                 endTime: "16:00",
+#                 sessionIds: [010]
+#             }
+#             - {
+#                 startTime: "16:00",
+#                 endTime: "16:30",
+#                 sessionIds: [cafe]
+#             }
+#             - {
+#                 startTime: "16:30",
+#                 endTime: "17:20",
+#                 sessionIds: [005]
+#             }
+#             - {
+#                 startTime: "17:20",
+#                 endTime: "18:10",
+#                 sessionIds: [012]
+#             }
 
 # Terça-feira
 -
@@ -219,6 +219,11 @@
                 startTime: "13:30",
                 endTime: "14:30",
                 sessionIds: [011]
+            }
+            - {
+                startTime: "14:30",
+                endTime: "15:30",
+                sessionIds: [205]
             }
             - {
                 startTime: "15:30",

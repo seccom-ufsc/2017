@@ -247,7 +247,7 @@
                 ter escalado ágil, como estamos entregando software em um
                 momento tão desafiador e competitivo e o que esperamos para o
                 futuro"
-  speakers: [25, 26, 27]
+  speakers: [25, 26]
   language: pt-br
   complexity: "Introdutória"
 
@@ -457,6 +457,11 @@
                 <li>Design Thinking</li>
                 <li>Desenvolvimento de clientes para novos produtos</li></p>"
   speakers: [27]
+
+- id: 205
+  title: "Evento patrocinado: Safeweb"
+  description: ""
+  speakers: []
 
 #------------------------------------------------------------------------------
 # Palestras empresariais
