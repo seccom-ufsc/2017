@@ -44,98 +44,98 @@
 #             }
 
 # Terça-feira
--
-  date: "2017-10-03"
-  dateReadable: "3 de Outubro"
-  categories:
-      - title: "Minicursos"
-        tracks:
-            - {title: "Minicurso I - INE 314", color: "#40409b"}
-            - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
-            - {title: "Minicurso III - INE 101", color: "#8484cc"}
-        timeslots:
-            - {
-                startTime: "10:00",
-                endTime: "12:00",
-                sessionIds: [101, 103, 104]
-            }
-      - title: "Palestras"
-        tracks:
-            - {title: "Auditório / Hall", color: "#40409b"}
-        timeslots:
-            - {
-                startTime: "13:30",
-                endTime: "14:20",
-                sessionIds: [004]
-            }
-            - {
-                startTime: "14:20",
-                endTime: "15:10",
-                sessionIds: [003]
-            }
-            - {
-                startTime: "15:10",
-                endTime: "16:00",
-                sessionIds: [002]
-            }
-            - {
-                startTime: "16:00",
-                endTime: "16:30",
-                sessionIds: [cafe]
-            }
-            - {
-                startTime: "16:30",
-                endTime: "18:00",
-                sessionIds: [202]
-            }
+# -
+#   date: "2017-10-03"
+#   dateReadable: "3 de Outubro"
+#   categories:
+#       - title: "Minicursos"
+#         tracks:
+#             - {title: "Minicurso I - INE 314", color: "#40409b"}
+#             - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
+#             - {title: "Minicurso III - INE 101", color: "#8484cc"}
+#         timeslots:
+#             - {
+#                 startTime: "10:00",
+#                 endTime: "12:00",
+#                 sessionIds: [101, 103, 104]
+#             }
+#       - title: "Palestras"
+#         tracks:
+#             - {title: "Auditório / Hall", color: "#40409b"}
+#         timeslots:
+#             - {
+#                 startTime: "13:30",
+#                 endTime: "14:20",
+#                 sessionIds: [004]
+#             }
+#             - {
+#                 startTime: "14:20",
+#                 endTime: "15:10",
+#                 sessionIds: [003]
+#             }
+#             - {
+#                 startTime: "15:10",
+#                 endTime: "16:00",
+#                 sessionIds: [002]
+#             }
+#             - {
+#                 startTime: "16:00",
+#                 endTime: "16:30",
+#                 sessionIds: [cafe]
+#             }
+#             - {
+#                 startTime: "16:30",
+#                 endTime: "18:00",
+#                 sessionIds: [202]
+#             }
 
 
 
-# Quarta-feira
--
-  date: "2017-10-04"
-  dateReadable: "4 de Outubro"
-  categories:
-      - title: "Minicursos"
-        tracks:
-            - {title: "Minicurso I - INE 314", color: "#40409b"}
-            - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
-            - {title: "Minicurso III - LIICT 9", color: "#8484cd"}
-        timeslots:
-            - {
-                startTime: "10:00",
-                endTime: "12:00",
-                sessionIds: [101, 103, 104]
-            }
-      - title: "Palestras"
-        tracks:
-            - {title: "Auditório / Hall", color: "#40409b"}
-        timeslots:
-            - {
-                startTime: "13:30",
-                endTime: "14:20",
-                sessionIds: [001]
-            }
-            - {
-                startTime: "14:20",
-                endTime: "15:10",
-                sessionIds: [009]
-            }
-            - {
-                startTime: "15:10",
-                endTime: "16:00",
-                sessionIds: [013]
-            }
-            - {
-                startTime: "16:00",
-                endTime: "16:30",
-                sessionIds: [cafe]
-            }
-            - {
-                startTime: "16:30",
-                endTime: "17:20",
-                sessionIds: [014]
-            }
+# # Quarta-feira
+# -
+#   date: "2017-10-04"
+#   dateReadable: "4 de Outubro"
+#   categories:
+#       - title: "Minicursos"
+#         tracks:
+#             - {title: "Minicurso I - INE 314", color: "#40409b"}
+#             - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
+#             - {title: "Minicurso III - LIICT 9", color: "#8484cd"}
+#         timeslots:
+#             - {
+#                 startTime: "10:00",
+#                 endTime: "12:00",
+#                 sessionIds: [101, 103, 104]
+#             }
+#       - title: "Palestras"
+#         tracks:
+#             - {title: "Auditório / Hall", color: "#40409b"}
+#         timeslots:
+#             - {
+#                 startTime: "13:30",
+#                 endTime: "14:20",
+#                 sessionIds: [001]
+#             }
+#             - {
+#                 startTime: "14:20",
+#                 endTime: "15:10",
+#                 sessionIds: [009]
+#             }
+#             - {
+#                 startTime: "15:10",
+#                 endTime: "16:00",
+#                 sessionIds: [013]
+#             }
+#             - {
+#                 startTime: "16:00",
+#                 endTime: "16:30",
+#                 sessionIds: [cafe]
+#             }
+#             - {
+#                 startTime: "16:30",
+#                 endTime: "17:20",
+#                 sessionIds: [014]
+#             }
 
 
 # Quinta-feira
