@@ -84,3 +84,21 @@ Obtemos:
 - **Dimensões**: 3888x2592
 - **Padrão**: JFIF
 - **Informações extras**: segment length 16, progressive, precision 8, frames 3
+
+Dica: Thumbnails
+----------------
+
+Para a sessão de fotos, faça thumbnails das fotos e transforme-as em links. No
+caso, você pode aproveitar a flag `-resize` do `convert` para isso:
+
+```bash
+convert sample.jpg -resize 800x sample-thumb.jpg
+```
+
+Perceba que apenas a lagura foi dada (800). Isso serve para manter o
+aspect-ratio (proporção). Para redimensionar a altura e manter a proporção para
+a largura:
+
+```bash
+convert sample.jpg -resize x800 sample-thumb.jpg
+```

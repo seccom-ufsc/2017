@@ -3,19 +3,18 @@
     <h1>Em breve!</h1>
 </section>
 -->
-<!-- Begin Schedule Section -->
+
 <section id="album" class="album">
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
-        {% assign i = forloop.index0 | plus: 1 %}
-        <h2>{{ i }}º Dia ({{ day.dateReadable }})</h2>
-        {% assign imgpath = 'img/days/' | append: i %}
-        {% directory path: imgpath %}
-        <img src="{{ site.baseurl }}{{ file.url }}"/>
-        {% enddirectory %}
+            {% assign i = forloop.index0 | plus: 1 %}
+            <h2>{{ i }}º Dia ({{ day.dateReadable }})</h2>
+            {% assign imgpath = 'img/days/' | append: i %}
+            {% directory path: imgpath exclude: -thumb %}
+                <a href="{{ site.baseurl }}{{ file.url }}">
+                    <img src="{{ site.baseurl }}{{ file.url }}-thumb"/>
+                </a>
+            {% enddirectory %}
         {% endfor %}
     </div>
 </section>
-<!-- End Schedule Section -->
-
-
