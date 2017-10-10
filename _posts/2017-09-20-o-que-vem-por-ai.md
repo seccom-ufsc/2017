@@ -18,9 +18,9 @@ Informática e Estatística da UFSC mostrarem suas linhas de pesquisa.
 
 Estamos atualizando a lista de convidados constantemente para que você esteja
 por dentro das palestras e minicursos que acontecerão nessa edição da SECCOM.
-A lista de convidados confirmados pode ser acessada através desse
-[link]({{ site.baseurl }}{% link speakers.html %}) ou pela aba de navegação do
-site.
+A lista de convidados confirmados pode ser acessada através deste
+[link]({{ site.baseurl }}{% link pages/speakers.html %}) ou pela aba de
+navegação do site.
 
 
 **Rifa**

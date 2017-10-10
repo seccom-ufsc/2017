@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Notícias"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Convidados"}
+ - {permalink: "/photos/", text: "Fotos"}
 bottomNavigationLinks:
     # - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
     #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Inscreva-se para um minicurso"}
