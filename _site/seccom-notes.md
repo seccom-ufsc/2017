@@ -60,6 +60,9 @@ Para poder começar a editar o site:
    bundle exec jekyll serve -w
    ```
 
+7. Considere, antes de qualquer _deploy_, [reduzir o tamanho do
+   site](compression.md).
+
 Throubleshooting
 ----------------
 
