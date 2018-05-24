@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor',
 title: "SECCOM 2017"
 email: "seccom2017@contato.ufsc.br"
 description: "A semana acadêmica de computação da Universidade Federal de Santa Catarina"
-baseurl: "/zeppelin"
+baseurl: "/2017"
 url: "https://seccom2017.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
