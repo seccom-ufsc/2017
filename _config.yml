@@ -6,14 +6,15 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor',
+          'compression.md', 'seccom-notes.md']
 
 
 # Site Settings
 title: "SECCOM 2017"
 email: "seccom2017@contato.ufsc.br"
 description: "A semana acadêmica de computação da Universidade Federal de Santa Catarina"
-baseurl: "/zeppelin"
+baseurl: "/2017"
 url: "https://seccom2017.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -46,11 +47,12 @@ navigationLinks:
  - {permalink: "/blog/", text: "Notícias"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Convidados"}
+ - {permalink: "/photos/", text: "Fotos"}
 bottomNavigationLinks:
     # - {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
-    - {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Increva-se para um minicurso"}
+    #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Inscreva-se para um minicurso"}
 rightNavigationButtons:
-    - {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Increva-se para um minicurso"}
+    #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Inscreva-se para um minicurso"}
     #- {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 # Hero Block
@@ -58,7 +60,7 @@ heroImage: "hero.jpg"
 heroTitle: "SECCOM 2017"
 eventDate: "2 a 6 de Outubro"
 heroButtons:
-    - {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Increva-se para um minicurso"}
+    #- {link: "https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/viewform", text: "Inscreva-se para um minicurso"}
     #- {link: "https://goo.gl/forms/7wftj2pg78SpoPyo1", text: "Torne-se um palestrante"}
 
 

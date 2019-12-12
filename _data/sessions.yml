@@ -1,9 +1,19 @@
 -
-  id: 301
+  id: abre
+  title: "Abertura do evento"
+  place: "Auditório"
+
+-
+  id: fecha
+  title: "Sorteio do Pinebook e encerramento do evento"
+  place: "Auditório"
+
+
+-
+  id: cafe
   title: "Coffee Break"
   place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
+
 -
   id: 001
   title: "iGEM - Engenheirando o futuro"
@@ -142,6 +152,111 @@
   complexity: "Intermediária"
 
 -
+  id: 007
+  title: "O Curso de Ciências da Computação da UFSC: Uma retrospectiva dos 40
+          anos do curso sob o olhar de um egresso da primeira turma e professor
+          do curso há 35 anos."
+  description: ""
+  speakers: [18]
+  language: pt-br
+  complexity: "Introdutória"
+
+-
+  id: 009
+  title: "Como não escrever código de alta performance"
+  description: "Ao começar a programar descobrimos que não existe um único
+                jeito certo de se resolver um problema, mas existem vários
+                jeitos errados.  Essa palestra mostrará alguns erros
+                encontrados em códigos em que a performance é crítica e tentará
+                tirar  concepções erradas sobre alguns conceitos."
+  speakers: [19]
+  language: pt-br
+  complexity: "Introdutória"
+
+-
+  id: 010
+  title: "Arquiteturas de Serviços Altamente Escaláveis"
+  description: "Uma exposição introdutória aos conceitos e preocupações que se
+                deve ter ao criar APIs que serão consumidas em alta escala, e
+                têm que atender estritas restrições de latência e downtime."
+  speakers: [21, 22]
+  language: pt-br
+  complexity: "Intermediária"
+
+- id: 011
+  title: "Machine Learning e Big Data em Termos Leigos"
+  description: "Nesta apresentação tentaremos dar um norte para o pessoal que
+                gostaria de se aprofundar na área de analise de dados,
+                fundamentando e discorrendo sobre alguns dos tópicos que
+                participam da extração de insights de dados em escala, e pondo
+                tudo em prática no final ao resolver um problema de mundo real."
+  speakers: [23]
+  language: pt-br
+  complexity: "Introdutória"
+
+- id: 012
+  title: "Should I stay or should I Go - um overview da linguagem Go"
+  description: "<p>Existem milhares de linguagens por aí, e a cada dia que passa
+                outras dezenas surgem. Nessa talk iremos explorar os benefícios
+                e filosofias da linguagem criada pelo Google.</p>
+                <p>Golang surgiu em meados de 2009, desde então tem sido adotada
+                por grandes empresas e startups do Vale para escrever software
+                concorrente e manutenível.</p>
+                <p>Go tem ideias interessantes que fazem sentido na hora, e
+                outras que demoram para encaixar. Iremos explorar uma-a-uma
+                dessas características:
+                <li>Don’t communicate by sharing memory, share memory by communicating;</li>
+                <li>Concurrency is not parallelism;</li>
+                <li>Clear is better than clever;</li>
+                <li>Interfaces;</li>
+                <li>Error are values;</li></p>"
+  speakers: [24]
+  language: pt-br
+  complexity: "Introdutória"
+
+- id: 013
+  title: "Uma introdução à Computação Quântica"
+  description: "Atualmente somos extremamente dependentes da tecnologia, em
+                particular, dos computadores, sejam os nossos laptops ou os
+                supercomputadores. Apesar destes serem constituídos por
+                dispositivos eletrônicos que só existiram a partir dos avanços
+                da Mecânica Quântica, tais computadores ainda são chamados de
+                computadores clássicos. Nesta palestra, serão apresentadas as
+                diferenças entre os computadores clássicos e os computadores
+                quânticos, sendo estes últimos baseados em uma lógica que
+                depende da natureza quântica. Embora ainda em um estágio
+                inicial, a corrida tecnológica pela construção de um computador
+                quântico que apresente vantagens de processamento sobre os
+                computadores atuais está a todo vapor, uma vez que os
+                computadores quânticos prometem resolver de maneira eficiente
+                problemas intratáveis aos computadores clássicos. Alguns desses
+                problemas serão abordados e as perspectivas para a área serão
+                apresentadas."
+  speakers: [20]
+  language: pt-br
+  complexity: "Introdutória"
+
+- id: 014
+  title: "Agilidade na Prática"
+  description: "Sabemos todos que a filosofia ágil tem em seu alicerce a
+                mudança cultural: sem que esta ocorra, as práticas,
+                metodologias e ferramentas tendem ao fracasso. Tentar modificar
+                a cultura de uma instituição é sempre um desafio, ainda mais em
+                uma empresa que possui 26 anos. Nesta palestra, será
+                apresentado um overview da história da Softplan, os desafios de
+                ter escalado ágil, como estamos entregando software em um
+                momento tão desafiador e competitivo e o que esperamos para o
+                futuro"
+  speakers: [25, 26]
+  language: pt-br
+  complexity: "Introdutória"
+
+#------------------------------------------------------------------------------
+# Minicursos
+#
+# IDs: 1xx
+#------------------------------------------------------------------------------
+-
   id: 101
   title: "Minicurso: Versionamento de código com Git e Github"
   description: "<p>Produzir software nunca foi uma tarefa fácil, pois à medida
@@ -271,8 +386,7 @@
   subtype: workshop
   language: pt-br
 
--
-  id: 107
+- id: 107
   title: "Minicurso: Programando uma IoT confiável: a API Smart Data"
   description: "<p>
                 A Internet das Coisas (IoT) é uma tecnologia emergente com o
@@ -309,10 +423,94 @@
   subtype: workshop
   language: pt-br
 
--
-  id: 201
+#------------------------------------------------------------------------------
+# Eventos Especiais
+#
+# IDs: 2xx
+#------------------------------------------------------------------------------
+
+- id: 201
   title: "Mesa Redonda: Caminhos após a graduação"
   description: ""
-  speakers: [1, 4, 5, 8]
+  speakers: [1, 4, 5, 8, 28]
   subtype: presentation
   language: pt-br
+
+- id: 202
+  title: "Feira de laboratórios"
+  description: "A Feira de Laboratórios é um espaço reservado para os
+                participantes do evento conhecerem um pouco sobre os
+                laboratório do INE e seus projetos de pesquisa. Venha conhecer
+                os laboratórios de pesquisa do Departamento de Informática e
+                Estatística da UFSC!"
+
+- id: 203
+  title: "Exposição de empresas"
+  description: "Uma tarde dedicada ao mercado de trabalho."
+
+- id: 204
+  title: "Inovação é resolver problemas reais!"
+  description: "<p><li>Como a Softplan está desenvolvendo novos produtos e serviços</li>
+                <li>Lean Startup (Testar, Medir, Aprender)</li>
+                <li>Design Thinking</li>
+                <li>Desenvolvimento de clientes para novos produtos</li></p>"
+  speakers: [27]
+
+- id: 205
+  title: "Evento patrocinado: Safeweb"
+  description: ""
+  speakers: []
+
+#------------------------------------------------------------------------------
+# Palestras empresariais
+#
+# IDs: 3xx
+#------------------------------------------------------------------------------
+- id: 301
+  title: "Resultados Digitais"
+  description: ""
+
+- id: 302
+  title: "Khomp"
+  description: "A Khomp é uma empresa brasileira, com sede em Santa Catarina,
+                que fornece tecnologia de ponta para o desenvolvimento de
+                soluções de convergência entre computador e telefonia, nos
+                cenários mais exigentes em confiabilidade e alto desempenho. Os
+                produtos Khomp são desenvolvidos por uma equipe de
+                profissionais altamente qualificada, que também acompanha o
+                desenvolvimento de seus parceiros e clientes e, com eles, cria
+                novas soluções para o crescimento de ambos.
+
+                Consolidada no mercado nacional, a Khomp iniciou sua escala
+                internacional e hoje possui escritórios regionais nas cidades
+                de Buenos Aires, na Argentina; Medellin, na Colômbia; Cidade do
+                México, no México; e Miami, na Flórida.
+
+                Dedicada no desenvolvimento de produtos sempre inovadores, a
+                Khomp apresenta um portfólio completo para os mercados de
+                Operadoras de Telefonia, Call Centers, Integradores de Soluções
+                de Telefonia, e, mais recentemente, incluindo equipamentos para
+                Segurança, Automação e Controle de Acesso para atender a
+                Pequenas Empresas e Condomínios Comerciais e Residenciais."
+- id: 303
+  title: "Softplan"
+  description: "A Softplan é uma das maiores empresas do Brasil no
+                desenvolvimento de softwares de gestão. Atualmente suas
+                soluções estão presentes em todos os estados brasileiros, em
+                países da América Latina e nos Estados Unidos, fazendo a
+                diferença na vida das pessoas. Desde 1990, a companhia atua de
+                modo a tornar a gestão pública e privada no Brasil mais
+                transparente, eficiente e ágil com o uso de tecnologias
+                modernas e inovadoras. Ao longo desses anos, a Softplan se
+                especializou no desenvolvimento e na implantação de softwares
+                de gestão para os segmentos de Justiça, Infraestrutura e Obras,
+                Gestão Pública, Projetos Cofinanciados por Organismos
+                Internacionais e Indústria da Construção."
+
+- id: 304
+  title: "Bridge"
+  description: ""
+
+- id: 305
+  title: "Safeweb"
+  description: ""

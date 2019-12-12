@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SECCOM 2017</title>
+    <description>A semana acadêmica de computação da Universidade Federal de Santa Catarina</description>
+    <link>http://localhost:4000/2017/</link>
+    <atom:link href="http://localhost:4000/2017/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Palestras voltam à reitoria</title>
+        <description>&lt;p&gt;Anunciamos que as palestras voltarão a ocorrer no auditório da Reitoria da
+UFSC, incluindo a de hoje (quarta-feira, 4 de outubro).&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 11:20:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/blog/volta-a-reitoria</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/blog/volta-a-reitoria</guid>
+      </item>
+    
+      <item>
+        <title>Novos locais para atividades de Terça e Quarta</title>
+        <description>&lt;p&gt;Conforme o comunicado de ontem, anunciamos como novo local das palestras de hoje e amanhã (3 e 4 de outubro) o &lt;a href=&quot;https://goo.gl/7nBnsw&quot;&gt;auditório do EPS&lt;/a&gt; (prédio da Engenharia de Produção e Sistemas).&lt;/p&gt;
+
+&lt;p&gt;O local da feira de laboratórios também foi alterado para a frente do INE (Departamento de Informática e Estatística).&lt;/p&gt;
+
+&lt;p&gt;Aproveitamos para informar que o prazo de inscrição dos minicursos de quinta e sexta-feira foram estendidos até o dia anterior de cada minicurso.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Oct 2017 11:20:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/blog/novos-locais</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/blog/novos-locais</guid>
+      </item>
+    
+      <item>
+        <title>Comunicado</title>
+        <description>&lt;p&gt;Devido aos acontecimentos, a abertura do evento e demais palestras de hoje (02/10) acontecerão no Auditório Teixeirão do Departamento de Engenharia Elétrica e Eletrônica.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Oct 2017 12:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/blog/comunicado</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/blog/comunicado</guid>
+      </item>
+    
+      <item>
+        <title>Inscrições para Minicursos</title>
+        <description>&lt;p&gt;As inscrições dos minicursos abrem nessa &lt;strong&gt;Segunda-feira (25/09)&lt;/strong&gt; às 8h00! Eles
+irão ocorrer na parte da manhã entre os dias 3 e 6 de Outubro. Teremos no total
+7 minicursos sobre as tecnologias mais atuais, entre eles Python, Docker, IoT e
+muito mais!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Quem pode se inscrever?&lt;/strong&gt;
+Qualquer pessoa, independente de ser aluno da UFSC ou não.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Quais serão os minicursos oferecidos?&lt;/strong&gt;
+A lista completa de minicursos poderá ser consultada através da guia
+“programação” no nosso site em breve. Também estará disponível o horário de cada
+minicurso.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;É de graça?&lt;/strong&gt;
+Não, cobramos uma taxa simbólica de &lt;em&gt;R$5,00 por minicurso&lt;/em&gt; pois o número de
+vagas é limitado. É um incentivo para que as pessoas realmente compareçam ao
+minicurso e não apenas reservem uma vaga.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Onde posso me inscrever?&lt;/strong&gt;
+Através desse &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSehOcMVaKgfWkiL1R3TF1GP7CxFvQpQJaCeEYGuWwbJ4LyFxw/closedform&quot;&gt;link&lt;/a&gt;.
+É importante lembrar que sua inscrição só é confirmada no ato de pagamento da
+taxa de inscrição, que deve ser feito na sala do PET Computação.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Onde fica a sala do PET Computação?&lt;/strong&gt;
+Na sala 521 do &lt;a href=&quot;https://goo.gl/ELLHPX&quot;&gt;Departamento de Informática e Estatísca do CTC - UFSC&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Até quando posso confirmar minha inscrição?&lt;/strong&gt;
+Até às 20h00 de Sexta-feira (29/09). Não deixe pra se inscrever na última hora,
+as vagas costumam se esgotar rapidamente!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Onde os minicursos irão ocorrer?&lt;/strong&gt;
+As reservas das salas estão sendo finalizadas e serão informadas posteriormente
+no nosso site. Também enviaremos e-mails aos inscritos confirmados informando o
+local dos minicursos.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Ganho certificado?&lt;/strong&gt;
+Sim, mas só se participar integralmente do minicurso ;D&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Sep 2017 21:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/blog/inscri%C3%A7%C3%B5es-para-minicursos</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/blog/inscri%C3%A7%C3%B5es-para-minicursos</guid>
+      </item>
+    
+      <item>
+        <title>O que vem por aí...</title>
+        <description>&lt;p&gt;&lt;strong&gt;Vinte anos de SECCOM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Comemorando a nossa vigésima edição do evento, preparamos algumas novidades para
+vocês! Além das palestras, minicursos (e coffee-breaks) que compõe a SECCOM
+todos os anos, teremos uma feira empresarial para que você possa conhecer novas
+oportunidades de emprego nas áreas de computação e TI. Outra novidade é que
+estaremos oferecendo um espaço nos laboratórios do Departamento de
+Informática e Estatística da UFSC mostrarem suas linhas de pesquisa.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Convidados confirmados&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Estamos atualizando a lista de convidados constantemente para que você esteja
+por dentro das palestras e minicursos que acontecerão nessa edição da SECCOM.
+A lista de convidados confirmados pode ser acessada através deste
+&lt;a href=&quot;/2017/speakers/&quot;&gt;link&lt;/a&gt; ou pela aba de
+navegação do site.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rifa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nesse ano vamos realizar um sorteio para contribuir financeiramente com evento
+e fazer com que essa edição do evento esteja ao nivel das nossas expectativas.
+O produto a ser sorteado será um Pinebook com processador Quad-Core
+Cortex A53 ARM 64-bits e tela de 14”. É o hardware perfeito para quem quer
+entender o que acontece por debaixo do teclado. A rifa pode ser comprada no
+CALICO ou na sala do PET-Computação (sala 521 do INE-UFSC). O sorteio irá
+ocorrer no último dia do evento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adesivo SECCOM&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Para completar aquele mural de adesivos na tampa do seu notebook só faltava um
+com a logo da SECCOM. Nosso estoque é limitado então corra pegar o seu por
+apenas R$2,00 na sala do PET-Computação.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Sep 2017 21:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2017/blog/o-que-vem-por-ai</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/blog/o-que-vem-por-ai</guid>
+      </item>
+    
+  </channel>
+</rss>

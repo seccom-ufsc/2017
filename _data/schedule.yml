@@ -1,92 +1,247 @@
 # Segunda-feira
-
-#-
-#  date: "2017-10-02"
-#  dateReadable: "2 de Outubro"
-#  tracks:
-#    - {title: "Minicurso I", color: "#0a0a55"}
-#  timeslots:
-#    - {
-#    	startTime: "10:00",
-#    	endTime: "10:45",
-#    	sessionIds: [002]
-#    }
-#    - {
-#        startTime: "11:00",
-#        endTime: "11:45",
-#        sessionIds: [003]
-#    }
-#    - {
-#    	startTime: "12:00",
-#    	endTime: "11:45",
-#    	sessionIds: [307]
-#    }
-
+-
+  date: "2017-10-02"
+  dateReadable: "2 de Outubro"
+  categories:
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:00",
+                endTime: "13:30",
+                sessionIds: [abre]
+            }
+            - {
+                startTime: "13:30",
+                endTime: "14:20",
+                sessionIds: [007]
+            }
+            - {
+                startTime: "14:20",
+                endTime: "15:10",
+                sessionIds: [006]
+            }
+            - {
+                startTime: "15:10",
+                endTime: "16:00",
+                sessionIds: [010]
+            }
+            - {
+                startTime: "16:00",
+                endTime: "16:30",
+                sessionIds: [cafe]
+            }
+            - {
+                startTime: "16:30",
+                endTime: "17:20",
+                sessionIds: [005]
+            }
+            - {
+                startTime: "17:20",
+                endTime: "18:10",
+                sessionIds: [012]
+            }
 
 # Terça-feira
 -
   date: "2017-10-03"
   dateReadable: "3 de Outubro"
-  tracks:
-    - {title: "Auditório / Hall", color: "#40409b"}
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-    - {title: "Minicurso III", color: "#8484cd"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [404, 101, 103, 104]
-    }
-    - {
-        startTime: "14:20",
-        endTime: "15:10",
-        sessionIds: [6, 404, 404, 404]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+            - {title: "Minicurso I - INE 314", color: "#40409b"}
+            - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
+            - {title: "Minicurso III - INE 101", color: "#8484cc"}
+        timeslots:
+            - {
+                startTime: "10:00",
+                endTime: "12:00",
+                sessionIds: [101, 103, 104]
+            }
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "14:20",
+                sessionIds: [004]
+            }
+            - {
+                startTime: "14:20",
+                endTime: "15:10",
+                sessionIds: [003]
+            }
+            - {
+                startTime: "15:10",
+                endTime: "16:00",
+                sessionIds: [002]
+            }
+            - {
+                startTime: "16:00",
+                endTime: "16:30",
+                sessionIds: [cafe]
+            }
+            - {
+                startTime: "16:30",
+                endTime: "18:00",
+                sessionIds: [202]
+            }
+
 
 
 # Quarta-feira
 -
   date: "2017-10-04"
   dateReadable: "4 de Outubro"
-  tracks:
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-    - {title: "Minicurso III", color: "#8484cd"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [101, 103, 104]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+            - {title: "Minicurso I - INE 314", color: "#40409b"}
+            - {title: "Minicurso II - INE 214", color: "#5c5cb1"}
+            - {title: "Minicurso III - LIICT 9", color: "#8484cd"}
+        timeslots:
+            - {
+                startTime: "10:00",
+                endTime: "12:00",
+                sessionIds: [101, 103, 104]
+            }
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "14:20",
+                sessionIds: [001]
+            }
+            - {
+                startTime: "14:20",
+                endTime: "15:10",
+                sessionIds: [009]
+            }
+            - {
+                startTime: "15:10",
+                endTime: "16:00",
+                sessionIds: [013]
+            }
+            - {
+                startTime: "16:00",
+                endTime: "16:30",
+                sessionIds: [cafe]
+            }
+            - {
+                startTime: "16:30",
+                endTime: "17:20",
+                sessionIds: [014]
+            }
 
 
 # Quinta-feira
 -
   date: "2017-10-05"
   dateReadable: "5 de Outubro"
-  tracks:
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-    - {title: "Minicurso III", color: "#8484cd"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [106, 102, 105]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+          - {title: "Minicurso I - INE 313", color: "#40409b"}
+          - {title: "Minicurso II - LIICT 8", color: "#5c5cb1"}
+          - {title: "Minicurso III - LIICT 2", color: "#8484cd"}
+        timeslots:
+          - {
+              startTime: "10:00",
+              endTime: "12:00",
+              sessionIds: [106, 102, 105]
+          }
+      - title: "Feira Empresarial"
+        tracks:
+            - {title: "Hall", color: "#40409b"}
+            - {title: "Palestras Empresariais", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "18:00",
+                sessionIds: [203, 404],
+            }
+            - {
+                startTime: "13:30",
+                endTime: "14:10",
+                sessionIds: [404, 301],
+            }
+            - {
+                startTime: "14:10",
+                endTime: "14:50",
+                sessionIds: [404, 302],
+            }
+            - {
+                startTime: "14:50",
+                endTime: "15:30",
+                sessionIds: [404, 303],
+            }
+            - {
+                startTime: "15:30",
+                endTime: "16:10",
+                sessionIds: [404, 304],
+            }
+            - {
+                startTime: "16:10",
+                endTime: "16:50",
+                sessionIds: [404, 305],
+            }
+            - {
+                startTime: "16:50",
+                endTime: "17:20",
+                sessionIds: [cafe]
+            }
 
 
 # Sexta-feira
 -
   date: "2017-10-06"
   dateReadable: "6 de Outubro"
-  tracks:
-    - {title: "Minicurso I", color: "#40409b"}
-    - {title: "Minicurso II", color: "#5c5cb1"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "12:00",
-        sessionIds: [106, 107]
-    }
+  categories:
+      - title: "Minicursos"
+        tracks:
+            - {title: "Minicurso I - INE 313", color: "#40409b"}
+            - {title: "Minicurso II - INE 314", color: "#5c5cb1"}
+        timeslots:
+            - {
+                startTime: "10:00",
+                endTime: "12:00",
+                sessionIds: [106, 107]
+            }
+      - title: "Palestras"
+        tracks:
+            - {title: "Auditório / Hall", color: "#40409b"}
+        timeslots:
+            - {
+                startTime: "13:30",
+                endTime: "14:30",
+                sessionIds: [011]
+            }
+            - {
+                startTime: "14:30",
+                endTime: "15:30",
+                sessionIds: [205]
+            }
+            - {
+                startTime: "15:30",
+                endTime: "16:00",
+                sessionIds: [cafe]
+            }
+            - {
+                startTime: "16:00",
+                endTime: "17:00",
+                sessionIds: [204]
+            }
+            - {
+                startTime: "17:00",
+                endTime: "18:30",
+                sessionIds: [201]
+            }
+            - {
+                startTime: "18:30",
+                endTime: "19:00",
+                sessionIds: [fecha]
+            }

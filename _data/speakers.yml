@@ -181,18 +181,34 @@
         tecnologias do mundo web desde então. Entusiasta do open source,
         acredita que o javascript ainda dominará o mundo."
   thumbnailUrl: CarlosBonetti.jpg
+
 -
   id: 11
-  name: "Felipe"
-  surname: "Simeão Taboada"
+  name: "Antonio Marco"
+  surname: "Da Costa Taha"
   company: "Laboratório Bridge"
-  title: "Arquiteto de Sistemas"
-  bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
-        há quase 7 anos com desevolvimento de software, desde 2013 no
-        Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
-        e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
-        nacional de implantes)"
-  thumbnailUrl: FelipeTaboada.jpg
+  title: "Desenvolvedor Full-Stack"
+  bio: "Graduando em Sistemas de Informação pela Universidade Federal de Santa
+        Catarina. Trabalha no Laboratório Bridge desde 2014. Já desempenhou a
+        função de tester e atualmente trabalha como Full-stack. No Bridge
+        esteve presente no projeto e-SUS AB e atualmente trabalha no RNI
+        (Registro Nacional de Implantes). Motivador e explorador de novas
+        tecnologias de front-end, principalmente envolvendo javascript."
+  thumbnailUrl: AntonioTaha.jpg
+
+#-
+#  id: 11
+#  name: "Felipe"
+#  surname: "Simeão Taboada"
+#  company: "Laboratório Bridge"
+#  title: "Arquiteto de Sistemas"
+#  bio: "Formado em Sistemas de Informação pela ESUCRI, Felipe Taboada trabalha
+#        há quase 7 anos com desevolvimento de software, desde 2013 no
+#        Laboratório Bridge, onde atua como Arquiteto de Sistemas nos projetos
+#        e-SUS AB (Protuário eletrônico da atenção básica) e RNI (Registro
+#        nacional de implantes)"
+#  thumbnailUrl: FelipeTaboada.jpg
+
 -
   id: 12
   name: "Tarcísio Eduardo"
@@ -292,3 +308,178 @@
     - {name: "github", link: "https://github.com/uilianries"}
     - {name: "site", link: "https://uilianries.github.io/"}
     - {name: "linkedin", link: "https://br.linkedin.com/in/uilianries/"}
+
+-
+  id: 18
+  name: "Olinto José"
+  surname: "Varela Furtado"
+  company: "Departamento de Informática e Estatística, UFSC"
+  title: "Professor Titular"
+  bio: "Graduado em Ciências da Computação na Universidade Federal de Santa
+        Catarina em 1980, com mestrado em Engenharia de Sistemas e Computação
+        na Universidade Federal do Rio de Janeiro (UFRJ) em 1984, doutorado em
+        Engenharia Elétrica com foco em Sistemas de Tempo Real também pela UFSC
+        em 1997, Olinto José Varela Furtado é professor titular do Departamento
+        de Informática e Estatística no Centro Tecnológico da UFSC. Foi
+        coordenador do curso de Ciências da Computação no período de 1985 a
+        1989, de Sistemas de Informação no período de 2005 a 2007 e de
+        Especialização em Computação de 1990 a 1992. Foi subcoordenador do
+        curso de Sistemas de informação de 2007 a 2011. Desde 1998, é
+        Coordenador de Informática da COPERVE (UFSC), sendo presidente da
+        COPERVE em 2013 e 2014. Homenageado como patrono, paraninfo e nome de
+        turma de mais de 50 turmas dos cursos de CCO e SIN da UFSC, Olinto
+        segue nas áreas de Linguagens Formais, Teoria da Computação,
+        Compiladores e Sistemas de Tempo Real."
+  thumbnailUrl: OlintoFurtado.jpg
+  social:
+      - {name: "site", link: "http://lattes.cnpq.br/9156645330801555"}
+
+- id: 19
+  name: "Felipe"
+  surname: "Silveira"
+  company: "Khomp"
+  title: ""
+  bio: "Formado em Computação na UFSC, já atuou em aplicações de computação
+        científica (incluindo no L3C-UFSC) e atualmente trabalha com
+        processamento de áudio na Khomp. Tem interesse em C++ e escrever código
+        rápido (e na maioria das vezes correto)."
+  thumbnailUrl: FelipeSilveira.jpg
+  social:
+      - {name: "linkedin", link: "https://www.linkedin.com/in/felipessilveira/"}
+
+- id: 20
+  name: "Eduardo"
+  surname: "Inacio Duzzioni"
+  company: "GIQSul - Grupo de Informação Quântica da Sul"
+  title: "Professor Associado I"
+  bio: "Possui graduação em Física Bacharelado pela Universidade Federal de
+        Santa Catarina (2001), mestrado em Física pela Universidade Federal de
+        Santa Catarina (2003), doutorado pela Universidade Federal de São
+        Carlos (2007) e pós-doutorado pela Universidade Federal do ABC
+        (2007-2008). Tem experiência na área de Física, com ênfase em Física
+        Quântica; atuando principalmente nos seguintes temas: óptica quântica e
+        informação quântica. Atualmente é professor Associado I no Departamento
+        de Física da Universidade Federal de Santa Catarina e vice-coordenador
+        do Programa de Pós-graduação em Física."
+  thumbnailUrl: EduardoDuzzioni.jpg
+
+- id: 21
+  name: "Flavio"
+  surname: "Santos"
+  company: "LINX+Neemu+Chaordic"
+  title: "Líder Técnico do time da plataforma de dados"
+  bio: "Flávio atua no time da plataforma de dados da LINX+Neemu+Chaordic,
+        empresa especializada em servir recomendações para soluções e sites de
+        e-commerce. Doutor pela UFRGS e graduado em Ciência da Computação pela
+        UFCG. Tem experiência profissional em Hadoop, Hive, Spark e Cassandra e
+        lida diariamente com tecnologias que atendem dezenas de milhares de
+        requisições por minuto, como Kafka, Akka, Redis, Elasticsearch e Mongo."
+  thumbnailUrl: FlavioSantos.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fsantos"}
+
+- id: 22
+  name: "Vitor"
+  surname: "Avancini"
+  company: "LINX+Neemu+Chaordic"
+  title: "Desenvolvedor em Big Data"
+  bio: "Vitor faz parte do time da plataforma de dados da LINX+Neemu+Chaordic.
+        Formado em Sistemas de Informação pela UFSC, liderou a implantação da
+        infraestrutura de microservices hoje utilizada pela empresa. Em estudos
+        na Austrália, pesquisou e aplicou técnicas de computação distribuída e
+        machine learning. Possui experiência com Ruby, Python, Java, Docker,
+        Mesos e Marathon."
+  thumbnailUrl: VitorAvancini.jpg
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vitor-avancini-35bb1367"}
+
+- id: 23
+  name: "Luiz"
+  surname: "Berti"
+  company: "LINX+Neemu+Chaordic"
+  title: "Membro da equipe de Data Science"
+  bio: "Graduando em Ciência da Computação na UFSC e membro da equipe de Data
+        Science da Linx+Neemu+Chaordic, atualmente trabalhando no cálculo de
+        projeções econômicas e predição comportamental de usuários. Usuário de
+        longa data de Python, obcecado por otimizações, amante de estruturas de
+        dados esotéricas."
+  thumbnailUrl: LuizBerti.jpg
+
+- id: 24
+  name: "Nando"
+  surname: "Sousa"
+  company: "Resultados Digitais"
+  title: "Software Developer"
+  bio: "Eu sou Software Developer na Resultados Digitais. Adicionalmente,
+        co-fundei alguns grupos de meetup, incluindo: FloripaOnRails, Floripa
+        Gophers and Elixir |> SC."
+  thumbnailUrl: NandoSousa.jpg
+  social:
+    - {name: "site", link: "http://tech.nandosousa.com/"}
+    - {name: "github", link: "https://github.com/nandosousafr"}
+    - {name: "twitter", link: "https://twitter.com/nandosousafr"}
+
+- id: 25
+  name: "Ana Paula"
+  surname: "Soares"
+  company: "Softplan"
+  title: "Agile Coach"
+  bio: "Ana Paula Soares atua na área de projetos de software há mais de 10
+        anos. Agilista desde 2011, é bacharel em Ciência da Computação, com MBA
+        em Gestão de Projetos. Possui certificações de Scrum Master, SAFe
+        Agilist e Kanban Management Professional. Atualmente é Agile Coach na
+        Softplan atuando diretamente na transformação Lean-Agile."
+  thumbnailUrl: AnaPaula.jpg
+
+- id: 26
+  name: "Fábio"
+  surname: "Trierveiler"
+  company: "Softplan"
+  title: "Agile Coach"
+  bio: "Especialista em Engenharia de Projetos de Software (UNISUL) e em
+        Qualidade e Engenharia de Software (UNIVALI), Bacharel em Sistemas de
+        Informação (UFSC), Técnico em Eletrônica (CEFET/SC), atua com
+        desenvolvimento ágil de software desde 2008. Trabalhou como
+        desenvolvedor PL/SQL para a Bunge Alimentos, QA de software mobile com
+        contatos frequentes com Microsoft, Motorola e VIVO, testes em Delphi e
+        qualidade e processos. Atualmente atua em agile coaching e nas melhorias
+        dos métodos de trabalho voltado principalmente aos processos técnicos
+        (manutenção evolutiva e corretiva), engenharia de software, indicadores,
+        capacitação contínua, com ênfase nas boas práticas do mundo de
+        desenvolvimento ágil de software."
+  thumbnailUrl: FabioTrierveiler.jpg
+
+- id: 27
+  name: "Guilherme"
+  surname: "Camargo Tossulino"
+  company: "Softplan"
+  title: "Gerente de Inovação e Novos Negócios"
+  bio: "Formado em Ciência da Computação pela UNISUL e Pós-Graduado em
+        Gerenciamento de Projetos pela FGV. Atua desde 2001 na área de
+        tecnologia da informação em empresas de desenvolvimento de software e
+        outsourcing de serviços. Especialização em Gerenciamento de Projetos,
+        atuou como GP em projetos com equipes multidisciplinares com escopos
+        distintos como desenvolvimento de portais, sites, implantação e
+        desenvolvimento cursos à distância e softwares. Desde 2016 atua como
+        Gerente de Inovação e Novos Negócios na Softplan, conduzindo as
+        iniciativas da Unidade de Gestão Pública. Entre os principais desafios
+        estão a formação e estruturação da área com processos, pessoas,
+        indicadores e estratégias de inovação."
+  thumbnailUrl: GuilhermeTossulino.jpg
+
+- id: 28
+  name: "Sergio"
+  surname: "Genilson Pfleger"
+  company: "Loeffa Soluções Tecnológicas"
+  title: "CEO"
+  bio: "Sergio Genilson Pfleger, iniciou sua vida acadêmica com bacharelado em
+        Física e logo migrou para Ciência da Computação, graduação que concluiu
+        em 2013. O tema do seu TCC o impulsionou para o seu mestrado que iniciou
+        logo em seguida. Sua dissertação “Redução de Ruído em Vídeos em Tempo
+        Real Baseado na Fusão do Filtro de Kalman e Filtro Bilateral” foi
+        defendido com exito em agosto de 2016. Atualmente é CEO da Loeffa
+        Soluções Tecnológicas, empresa cuja semente nasceu durante o curso e
+        floresceu no final do mestrado. A Loeffa desenvolve software sob
+        encomenda, inclinada ao desenvolvimento de aplicativos para dispositivos
+        móveis."
+  thumbnailUrl: SergioPfleger.jpg
