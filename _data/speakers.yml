@@ -292,16 +292,22 @@
 -
   id: 17
   name: "Uilian"
-  surname: "de Araújo Ries"
+  surname: "Ries"
   company: "Khomp"
   title: "Desenvolvedor"
   bio: "Desenvolvedor de software, nas tecnologias C/C++ e Python. Formado no
-        curso de análise e desenvolvimento de sistemas pela UNISINOS e técnico
-        em informática industrial pelo SENAI-RS. Possui conhecimento e
-        experiência nas áreas de automação bancária e telecomunicações, tendo
-        desenvolvido diversos projetos para sistemas embarcados em Linux e
-        Windows desktop."
-  thumbnailUrl: UilianRies.jpg
+        curso de análise e desenvolvimento de sistemas pela UNISINOS e
+        técnico em informática industrial pelo SENAI-RS. Possui conhecimento
+        e experiência nas áreas de automação bancária e telecomunicações,
+        onde desenvolveu diversos projetos para sistemas embarcados em
+        Linux e Windows desktop. Atualamente está realizando o desenvolvimento
+        de novos projeto na Khomp."
+  thumbnailUrl: uilianRies.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/uilianries"}
+    - {name: "github", link: "https://github.com/uilianries"}
+    - {name: "site", link: "https://uilianries.github.io/"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/uilianries/"}
 
 -
   id: 18
